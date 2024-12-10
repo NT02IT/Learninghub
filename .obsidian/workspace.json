@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "51b6284a5a9777da",
+    "type": "split",
+    "children": [
+      {
+        "id": "008d11e56fcdba04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5a881d4972e0dc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Reference Roadmap.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. Reference Roadmap"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f36ea6a7fdea3abf",
+    "type": "split",
+    "children": [
+      {
+        "id": "f036b2b449d22942",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6524d2bf18d09e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "79f3c174b2880d06",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9cefee07f375e1f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a3410cb54378b0f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4aac581ecc9d83a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b4c155aa15e52c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0. Reference Roadmap.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 0. Reference Roadmap"
+            }
+          },
+          {
+            "id": "b53c2237e10cf3da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0. Reference Roadmap.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 0. Reference Roadmap"
+            }
+          },
+          {
+            "id": "99bdcfd0902d457b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2a3cfe3b3b7a7de6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0. Reference Roadmap.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 0. Reference Roadmap"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e5a881d4972e0dc4",
+  "lastOpenFiles": [
+    "2024-12-10.md",
+    "0. Reference Roadmap.md",
+    "Untitled",
+    "2. Product Thinking/2.4. Success Metrics",
+    "2. Product Thinking/2.3. Post-launch",
+    "2. Product Thinking/2.2. Launch",
+    "2. Product Thinking/2.1. Pre-launch",
+    "2. Product Thinking",
+    "12. SEO Fundamentals",
+    "0. Data Visualize",
+    "0. Thinking Tools/Untitled",
+    "0. Thinking Tools/System Thinking",
+    "UX Audit.md",
+    "Welcome.md"
+  ]
+}
