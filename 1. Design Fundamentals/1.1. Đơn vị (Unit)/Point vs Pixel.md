@@ -45,7 +45,7 @@ Tuy nhiên, hãy nhìn vào MacBook Pro 13in, màn hình của nó chỉ có m�
 
 ![[Pasted image 20241211144048.png]]
 
-## [[Self note]]
+## [[Key note]]
 - Pixel là phần tử nhỏ nhất trong hình ảnh điện tử; Point là một đơn vị đo chiều dài, 1 point chính xác bằng 1/72 inch. ⇒ Ở độ phân giải 72ppi thì 1pt=1px
 - 1 Point có thể được biểu diễn trên màn hình bởi nhiều pixel tùy theo PPI.
 - Image Pixel và Screen Pixel là khác nhau. Image Pixel là đơn vị nhỏ nhất trong một bức ảnh số hoặc hình ảnh kỹ thuật số. Một pixel trong hình ảnh chứa thông tin về màu sắc và độ sáng của một điểm ảnh trong ảnh. Screen Pixel là đơn vị cơ bản của độ phân giải trên màn hình hiển thị (ví dụ: trên điện thoại, máy tính). Một pixel trên màn hình có thể phát sáng hoặc không và có thể chứa nhiều màu sắc.

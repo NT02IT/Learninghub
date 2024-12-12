@@ -119,8 +119,10 @@ Sự khác biệt trở nên đáng chú ý hơn với các loại màn hình kh
 - Màn hình iPhone ngày nay có kích thước 2 x 3 inch và chứa 320 x 480 pixel (khoảng 160 PPI).
 Một tệp PNG đơn lẻ có kích thước 100 x 100 pixel có thể được đặt trên digital billboard và màn hình iPhone trên. Tuy nhiên, tệp PNG này sẽ xuất hiện lớn hơn rất nhiều trên bảng quảng cáo vì pixel của bảng quảng cáo lớn gấp 100 lần so với pixel của iPhone (1.6 PPI so với 160 PPI). Điều này là do mật độ pixel (PPI) của màn hình càng cao, các đối tượng và hình ảnh trên màn hình càng nhỏ và chi tiết hơn, trong khi màn hình có mật độ pixel thấp sẽ hiển thị các đối tượng lớn hơn, nhưng kém sắc nét hơn​
 
-## [[Self note]]
+## [[Key note]]
 - DPI không có ý nghĩa đối với website, nó chỉ thực sự có ý nghĩa khi được in ra.
+- Khoảng cách từ mắt đến 1 vật càng gần thì cần DPI càng cao để mắt không nhận ra sự vỡ hạt pixel.
+- Tỉ lệ thu phóng thường dùng cho Billboard ngoài trời cỡ lớn thường là 24x. Tức chỉ cần thiết kế ở kích thước nhỏ hơn kích thước thật 24 lần ở 300dpi là đủ.
 - Cùng 1 kích thước màn hình vật lý, 1px trên màn hình có DPI cao hơn trông sẽ nhỏ hơn.
 - Kích thước của 1 đối tượng trên màn hình đối với mắt người sẽ phụ thuộc vào nhiều yếu tố hơn là pixel, như: OS DPI, Kích thước màn hình, Screen Scale, Application Scale, Zoom Scale,...
 - Với thiết kế web responsive cần tính toán đến các trường hợp ảnh co giãn lớn hơn kích thước thực sự của nó (bằng thuộc tính max width, max height). Ngoài ra còn có thể kiểm soát thay đổi kích thước ảnh theo breakpoint để tối ưu tốc độ tải trang.

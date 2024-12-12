@@ -11,10 +11,10 @@
             "id": "fe5a2ed45f0bc02b",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -89,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Glossary/Phương pháp lấy mẫu định lượng.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Phương pháp lấy mẫu định lượng"
+              "title": "Backlinks"
             }
           },
           {
@@ -108,12 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Reference Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 0. Reference Roadmap"
+              "title": "Outgoing links"
             }
           },
           {
@@ -138,9 +136,33 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "d2279f2761b546d6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f827c7a1ef4225cb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -153,56 +175,58 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "fe5a2ed45f0bc02b",
   "lastOpenFiles": [
-    "Self note.md",
+    "2024-12-13.md",
+    "pininfo.md",
     "1. Design Fundamentals/1.2. Độ phân giải (Resolution)/DPI vs PPI.md",
     "1. Design Fundamentals/1.1. Đơn vị (Unit)/Point vs Pixel.md",
-    "assets/imgs/Pasted image 20241212064626.png",
-    "assets/imgs/Pasted image 20241212045416.png",
-    "assets/imgs/Pasted image 20241212045237.png",
-    "assets/imgs/Pasted image 20241212034418.png",
-    "assets/imgs/Pasted image 20241212032250.png",
-    "assets/imgs/Pasted image 20241211144048.png",
-    "assets/imgs/Pasted image 20241211143927.png",
-    "assets/imgs/Pasted image 20241211143620.png",
-    "0. Glossary/Nghệ thuật ứng dụng (Applied Art).md",
-    "0. Glossary/Mỹ thuật (Fine Art).md",
-    "0. Glossary/Lettering & Type Design.md",
-    "0. Glossary/Print & Publication Design.md",
-    "0. Glossary/User Interface Design.md",
-    "0. Glossary/Packaging Design.md",
-    "0. Glossary/Marketing & Advertising Design.md",
-    "0. Glossary/Brand Identity Design.md",
-    "0. Glossary/Biến trung gian.md",
-    "0. Question Hub",
-    "0. Glossary/Hệ số tương quan.md",
+    "Reference.md",
+    "Key note.md",
+    "_assets/imgs/Pasted image 20241212064626.png",
+    "_assets/imgs/Pasted image 20241212045416.png",
+    "_assets/imgs/Pasted image 20241212045237.png",
+    "_assets/imgs/Pasted image 20241212034418.png",
+    "_assets/imgs/Pasted image 20241212032250.png",
+    "_assets/imgs/Pasted image 20241211144048.png",
+    "_assets/imgs/Pasted image 20241211143927.png",
+    "_assets/imgs/Pasted image 20241211143620.png",
+    "Glossary/Nghệ thuật ứng dụng (Applied Art).md",
+    "Glossary/Mỹ thuật (Fine Art).md",
+    "Glossary/Lettering & Type Design.md",
+    "Glossary/Print & Publication Design.md",
+    "Glossary/User Interface Design.md",
+    "Glossary/Packaging Design.md",
+    "Glossary/Marketing & Advertising Design.md",
+    "Glossary/Brand Identity Design.md",
+    "Glossary/Biến trung gian.md",
+    "Question Hub",
+    "Glossary/Hệ số tương quan.md",
     "14. Xử lý dữ liệu dạng bảng/14.5.1. Xử lý các giá trị ngoại lệ.md",
     "14. Xử lý dữ liệu dạng bảng/14.8. Word2vec.md",
-    "assets/imgs/Pasted image 20241211123117.png",
-    "assets/imgs/Pasted image 20241211122639.png",
-    "0. Glossary/Phương pháp lấy mẫu định lượng.md",
-    "0. Glossary/Giả thuyết nghiên cứu.md",
-    "0. Glossary/Biến phụ thuộc.md",
-    "0. Glossary/Biến nhân khẩu.md",
-    "0. Glossary/Biến độc lập.md",
-    "0. Glossary/Biến điều tiết.md",
+    "_assets/imgs/Pasted image 20241211123117.png",
+    "_assets/imgs/Pasted image 20241211122639.png",
+    "Glossary/Phương pháp lấy mẫu định lượng.md",
+    "Glossary/Giả thuyết nghiên cứu.md",
+    "Glossary/Biến phụ thuộc.md",
+    "Glossary/Biến nhân khẩu.md",
+    "Glossary/Biến độc lập.md",
+    "Glossary/Biến điều tiết.md",
     "14. Xử lý dữ liệu dạng bảng/14.6.1. Mã hóa one-hot.md",
     "14. Xử lý dữ liệu dạng bảng/14.6. Đặc trưng hạng mục.md",
-    "14. Xử lý dữ liệu dạng bảng/14.5.2. Xử lý các giá trị bị khuyết.md",
-    "14. Xử lý dữ liệu dạng bảng/14.5. Làm sạch dữ liệu.md",
-    "14. Xử lý dữ liệu dạng bảng/14.4. Phân tích Khám phá dữ liệu - EDA.md",
     "0. Glossary/0. Glossary Canvas.canvas",
     "14. Xử lý dữ liệu dạng bảng/Canvas.canvas",
     "14. Xử lý dữ liệu dạng bảng/Untitled",
     "14. Xử lý dữ liệu dạng bảng",
-    "assets/imgs",
-    "assets",
-    "0. Design History",
-    "0. Case Studies",
+    "_assets/imgs",
+    "_assets",
+    "1. Design Fundamentals/1.9. Design History",
+    "Case Studies",
     "12. Accessibility/12.6. Web Accessibility Principles (POUR)",
     "12. Accessibility/12.5. A11Y",
     "12. Accessibility/12.4. Accessibility Guidelines WCAG"
