@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "03c06d6facd8304f",
+        "id": "0619be08f2cdf229",
         "type": "tabs",
         "children": [
           {
-            "id": "fe5a2ed45f0bc02b",
+            "id": "a32a8a9ec47a28f7",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"not complete\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,12 +180,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fe5a2ed45f0bc02b",
+  "active": "e6524d2bf18d09e0",
   "lastOpenFiles": [
+    "9. UI Foundation/9.10. Best Practices/113 Design Guidelines cho Homepage Usability.md",
+    "1. Design Fundamentals/1.1. Hiểu về thông số hình ảnh/1.1.2. DPI vs PPI.md",
+    "1. Design Fundamentals/1.1. Hiểu về thông số hình ảnh/1.1.1. Point vs Pixel.md",
+    "14. Xử lý dữ liệu dạng bảng/14.5.2. Xử lý các giá trị bị khuyết.md",
+    "14. Xử lý dữ liệu dạng bảng/14.5. Làm sạch dữ liệu.md",
+    "14. Xử lý dữ liệu dạng bảng/14.5.1. Xử lý các giá trị ngoại lệ.md",
+    "14. Xử lý dữ liệu dạng bảng/14.7. Embedding.md",
+    "14. Xử lý dữ liệu dạng bảng/14.6.3. Crossing.md",
+    "14. Xử lý dữ liệu dạng bảng/14.6.2. Hashing.md",
+    "14. Xử lý dữ liệu dạng bảng/14.6.1. Mã hóa one-hot.md",
+    "14. Xử lý dữ liệu dạng bảng/14.6. Đặc trưng hạng mục.md",
+    "14. Xử lý dữ liệu dạng bảng/14.4. Phân tích Khám phá dữ liệu - EDA.md",
+    "14. Xử lý dữ liệu dạng bảng/14.3. Tại sao cần xây dựng Pipeline.md",
+    "14. Xử lý dữ liệu dạng bảng/14.2. Machine Learning Pipeline.md",
+    "14. Xử lý dữ liệu dạng bảng/14.1. Đặc điểm của dữ liệu dạng bảng.md",
     "2024-12-13.md",
     "pininfo.md",
-    "1. Design Fundamentals/1.2. Độ phân giải (Resolution)/DPI vs PPI.md",
-    "1. Design Fundamentals/1.1. Đơn vị (Unit)/Point vs Pixel.md",
     "Reference.md",
     "Key note.md",
     "_assets/imgs/Pasted image 20241212064626.png",
@@ -203,29 +216,16 @@
     "Glossary/User Interface Design.md",
     "Glossary/Packaging Design.md",
     "Glossary/Marketing & Advertising Design.md",
-    "Glossary/Brand Identity Design.md",
-    "Glossary/Biến trung gian.md",
     "Question Hub",
-    "Glossary/Hệ số tương quan.md",
-    "14. Xử lý dữ liệu dạng bảng/14.5.1. Xử lý các giá trị ngoại lệ.md",
-    "14. Xử lý dữ liệu dạng bảng/14.8. Word2vec.md",
     "_assets/imgs/Pasted image 20241211123117.png",
     "_assets/imgs/Pasted image 20241211122639.png",
-    "Glossary/Phương pháp lấy mẫu định lượng.md",
-    "Glossary/Giả thuyết nghiên cứu.md",
-    "Glossary/Biến phụ thuộc.md",
-    "Glossary/Biến nhân khẩu.md",
-    "Glossary/Biến độc lập.md",
-    "Glossary/Biến điều tiết.md",
-    "14. Xử lý dữ liệu dạng bảng/14.6.1. Mã hóa one-hot.md",
-    "14. Xử lý dữ liệu dạng bảng/14.6. Đặc trưng hạng mục.md",
     "0. Glossary/0. Glossary Canvas.canvas",
     "14. Xử lý dữ liệu dạng bảng/Canvas.canvas",
     "14. Xử lý dữ liệu dạng bảng/Untitled",
     "14. Xử lý dữ liệu dạng bảng",
     "_assets/imgs",
     "_assets",
-    "1. Design Fundamentals/1.9. Design History",
+    "1. Design Fundamentals/1.4. Design History",
     "Case Studies",
     "12. Accessibility/12.6. Web Accessibility Principles (POUR)",
     "12. Accessibility/12.5. A11Y",
