@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "008d11e56fcdba04",
+        "id": "03c06d6facd8304f",
         "type": "tabs",
         "children": [
           {
-            "id": "e5a881d4972e0dc4",
+            "id": "fe5a2ed45f0bc02b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Reference Roadmap.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "0. Reference Roadmap"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Reference Roadmap.md",
+                "file": "0. Glossary/Phương pháp lấy mẫu định lượng.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 0. Reference Roadmap"
+              "title": "Backlinks for Phương pháp lấy mẫu định lượng"
             }
           },
           {
@@ -139,19 +134,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0. Reference Roadmap.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of 0. Reference Roadmap"
+              "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,21 +156,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5a881d4972e0dc4",
+  "active": "fe5a2ed45f0bc02b",
   "lastOpenFiles": [
-    "2024-12-10.md",
-    "0. Reference Roadmap.md",
-    "Untitled",
-    "2. Product Thinking/2.4. Success Metrics",
-    "2. Product Thinking/2.3. Post-launch",
-    "2. Product Thinking/2.2. Launch",
-    "2. Product Thinking/2.1. Pre-launch",
-    "2. Product Thinking",
-    "12. SEO Fundamentals",
-    "0. Data Visualize",
-    "0. Thinking Tools/Untitled",
-    "0. Thinking Tools/System Thinking",
-    "UX Audit.md",
-    "Welcome.md"
+    "Self note.md",
+    "1. Design Fundamentals/1.2. Độ phân giải (Resolution)/DPI vs PPI.md",
+    "1. Design Fundamentals/1.1. Đơn vị (Unit)/Point vs Pixel.md",
+    "assets/imgs/Pasted image 20241212064626.png",
+    "assets/imgs/Pasted image 20241212045416.png",
+    "assets/imgs/Pasted image 20241212045237.png",
+    "assets/imgs/Pasted image 20241212034418.png",
+    "assets/imgs/Pasted image 20241212032250.png",
+    "assets/imgs/Pasted image 20241211144048.png",
+    "assets/imgs/Pasted image 20241211143927.png",
+    "assets/imgs/Pasted image 20241211143620.png",
+    "0. Glossary/Nghệ thuật ứng dụng (Applied Art).md",
+    "0. Glossary/Mỹ thuật (Fine Art).md",
+    "0. Glossary/Lettering & Type Design.md",
+    "0. Glossary/Print & Publication Design.md",
+    "0. Glossary/User Interface Design.md",
+    "0. Glossary/Packaging Design.md",
+    "0. Glossary/Marketing & Advertising Design.md",
+    "0. Glossary/Brand Identity Design.md",
+    "0. Glossary/Biến trung gian.md",
+    "0. Question Hub",
+    "0. Glossary/Hệ số tương quan.md",
+    "14. Xử lý dữ liệu dạng bảng/14.5.1. Xử lý các giá trị ngoại lệ.md",
+    "14. Xử lý dữ liệu dạng bảng/14.8. Word2vec.md",
+    "assets/imgs/Pasted image 20241211123117.png",
+    "assets/imgs/Pasted image 20241211122639.png",
+    "0. Glossary/Phương pháp lấy mẫu định lượng.md",
+    "0. Glossary/Giả thuyết nghiên cứu.md",
+    "0. Glossary/Biến phụ thuộc.md",
+    "0. Glossary/Biến nhân khẩu.md",
+    "0. Glossary/Biến độc lập.md",
+    "0. Glossary/Biến điều tiết.md",
+    "14. Xử lý dữ liệu dạng bảng/14.6.1. Mã hóa one-hot.md",
+    "14. Xử lý dữ liệu dạng bảng/14.6. Đặc trưng hạng mục.md",
+    "14. Xử lý dữ liệu dạng bảng/14.5.2. Xử lý các giá trị bị khuyết.md",
+    "14. Xử lý dữ liệu dạng bảng/14.5. Làm sạch dữ liệu.md",
+    "14. Xử lý dữ liệu dạng bảng/14.4. Phân tích Khám phá dữ liệu - EDA.md",
+    "0. Glossary/0. Glossary Canvas.canvas",
+    "14. Xử lý dữ liệu dạng bảng/Canvas.canvas",
+    "14. Xử lý dữ liệu dạng bảng/Untitled",
+    "14. Xử lý dữ liệu dạng bảng",
+    "assets/imgs",
+    "assets",
+    "0. Design History",
+    "0. Case Studies",
+    "12. Accessibility/12.6. Web Accessibility Principles (POUR)",
+    "12. Accessibility/12.5. A11Y",
+    "12. Accessibility/12.4. Accessibility Guidelines WCAG"
   ]
 }

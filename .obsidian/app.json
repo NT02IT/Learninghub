@@ -1,4 +1,13 @@
 {
-  "defaultViewMode": "source",
-  "promptDelete": false
+  "defaultViewMode": "preview",
+  "promptDelete": false,
+  "spellcheck": true,
+  "showLineNumber": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
