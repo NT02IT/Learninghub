@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0619be08f2cdf229",
+        "id": "16e8558bb0d65796",
         "type": "tabs",
         "children": [
           {
-            "id": "a32a8a9ec47a28f7",
+            "id": "59d2cc94492d6eaa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Toolsheet.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Toolsheet"
             }
           }
         ]
@@ -48,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"not complete\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,9 +137,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Toolsheet.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Toolsheet"
             }
           },
           {
@@ -180,14 +187,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e6524d2bf18d09e0",
+  "active": "f827c7a1ef4225cb",
   "lastOpenFiles": [
+    "Reference.md",
+    "Toolsheet.md",
+    "Key note.md",
+    "14. Xử lý dữ liệu dạng bảng/14.5.1. Xử lý các giá trị ngoại lệ.md",
+    "Glossary/Mẫu theo phân bố nhánh.md",
+    "Glossary/Mẫu thuận tiện.md",
+    "14. Xử lý dữ liệu dạng bảng/14.5. Làm sạch dữ liệu.md",
+    "Glossary/Phương pháp lấy mẫu định lượng.md",
+    "Glossary/Giả thuyết nghiên cứu.md",
+    "Glossary/Câu hỏi nghiên cứu.md",
     "9. UI Foundation/9.10. Best Practices/113 Design Guidelines cho Homepage Usability.md",
     "1. Design Fundamentals/1.1. Hiểu về thông số hình ảnh/1.1.2. DPI vs PPI.md",
     "1. Design Fundamentals/1.1. Hiểu về thông số hình ảnh/1.1.1. Point vs Pixel.md",
     "14. Xử lý dữ liệu dạng bảng/14.5.2. Xử lý các giá trị bị khuyết.md",
-    "14. Xử lý dữ liệu dạng bảng/14.5. Làm sạch dữ liệu.md",
-    "14. Xử lý dữ liệu dạng bảng/14.5.1. Xử lý các giá trị ngoại lệ.md",
     "14. Xử lý dữ liệu dạng bảng/14.7. Embedding.md",
     "14. Xử lý dữ liệu dạng bảng/14.6.3. Crossing.md",
     "14. Xử lý dữ liệu dạng bảng/14.6.2. Hashing.md",
@@ -199,8 +214,6 @@
     "14. Xử lý dữ liệu dạng bảng/14.1. Đặc điểm của dữ liệu dạng bảng.md",
     "2024-12-13.md",
     "pininfo.md",
-    "Reference.md",
-    "Key note.md",
     "_assets/imgs/Pasted image 20241212064626.png",
     "_assets/imgs/Pasted image 20241212045416.png",
     "_assets/imgs/Pasted image 20241212045237.png",
@@ -210,12 +223,6 @@
     "_assets/imgs/Pasted image 20241211143927.png",
     "_assets/imgs/Pasted image 20241211143620.png",
     "Glossary/Nghệ thuật ứng dụng (Applied Art).md",
-    "Glossary/Mỹ thuật (Fine Art).md",
-    "Glossary/Lettering & Type Design.md",
-    "Glossary/Print & Publication Design.md",
-    "Glossary/User Interface Design.md",
-    "Glossary/Packaging Design.md",
-    "Glossary/Marketing & Advertising Design.md",
     "Question Hub",
     "_assets/imgs/Pasted image 20241211123117.png",
     "_assets/imgs/Pasted image 20241211122639.png",

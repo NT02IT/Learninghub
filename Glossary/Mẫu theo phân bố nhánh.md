@@ -1,7 +1,7 @@
 ---
 aliases:
   - Snowball sample
-desc: Mẫu phân bố nhanh trong phương pháp lấy mẫu định lượng phù hợp dành cho nghiên cứu có sự đặc thù hoặc né tránh trả lời của nhóm khách thể lựa chọn. dẫn đến việc nghiên cứu không thu thập được số lượng khách thể kỳ vọng.
+desc: Mẫu phân bố nhánh trong phương pháp lấy mẫu định lượng phù hợp dành cho nghiên cứu có sự đặc thù hoặc né tránh trả lời của nhóm khách thể lựa chọn. dẫn đến việc nghiên cứu không thu thập được số lượng khách thể kỳ vọng.
 created: 2024-12-11T01:08:00
 tags:
   - glossary
