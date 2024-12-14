@@ -11,10 +11,15 @@
             "id": "0c9c2ca2cb435142",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -184,6 +189,8 @@
   },
   "active": "0c9c2ca2cb435142",
   "lastOpenFiles": [
+    "outlinecreate.py",
+    "README.md",
     "Glossary/Mô hình Fogg.md",
     "Glossary/Biến độc lập.md",
     "14. Xử lý dữ liệu dạng bảng/14.3. Tại sao cần xây dựng Pipeline.md",
@@ -210,8 +217,6 @@
     "14. Xử lý dữ liệu dạng bảng/14.6. Đặc trưng hạng mục.md",
     "14. Xử lý dữ liệu dạng bảng/14.4. Phân tích Khám phá dữ liệu - EDA.md",
     "14. Xử lý dữ liệu dạng bảng/14.2. Machine Learning Pipeline.md",
-    "14. Xử lý dữ liệu dạng bảng/14.1. Đặc điểm của dữ liệu dạng bảng.md",
-    "2024-12-13.md",
     "_assets/Pasted image 20241212064626.png",
     "_assets/Pasted image 20241212045416.png",
     "_assets/Pasted image 20241212045237.png",
