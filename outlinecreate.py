@@ -10,9 +10,9 @@ def scan_directory(directory, prefix=''):
             structure += f'{prefix}{item}\n'
             structure += scan_directory(path, prefix + '\t')
         else:
-            # relative_path = os.path.relpath(path)
-            # file_url = f'{relative_path}'
-            structure += f'{prefix}[[{item}]] \n'
+            relative_path = os.path.relpath(path)
+            file_url = f'{relative_path}'
+            structure += f'{prefix}[{item}]({file_url}) \n'
     return structure
 
 

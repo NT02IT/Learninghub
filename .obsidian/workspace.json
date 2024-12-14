@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "755c1d862abc646d",
+        "id": "d251e04a70dfbbb1",
         "type": "tabs",
         "children": [
           {
-            "id": "0c9c2ca2cb435142",
+            "id": "0fcb3962360059c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -138,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Toolsheet.md"
+                "file": "README.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Toolsheet"
+              "title": "Outline of README"
             }
           },
           {
@@ -187,10 +187,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c9c2ca2cb435142",
+  "active": "f827c7a1ef4225cb",
   "lastOpenFiles": [
-    "1. Design Fundamentals/1.1. Hiểu về thông số hình ảnh/1.1.2. DPI vs PPI 1.md",
     "README.md",
+    "1. Design Fundamentals/1.1. Hiểu về thông số hình ảnh/1.1.2. DPI vs PPI 1.md",
     "outlinecreate.py",
     "Glossary/Mô hình Fogg.md",
     "Glossary/Biến độc lập.md",
