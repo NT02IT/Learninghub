@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "Glossary/Lettering & Type Design.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Lettering & Type Design"
             }
           }
         ]
@@ -53,10 +53,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mô hình",
+                "query": "&",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Glossary/Lettering & Type Design.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Lettering & Type Design"
             }
           },
           {
@@ -190,6 +191,7 @@
   "active": "8b6ad90f6b9bb743",
   "lastOpenFiles": [
     "README.md",
+    "Glossary/Print %26 Publication Design.md",
     "1. Design Fundamentals/1.1. Hiểu về thông số hình ảnh/1.1.2. DPI vs PPI 1.md",
     "outlinecreate.py",
     "Glossary/Mô hình Fogg.md",
@@ -217,7 +219,6 @@
     "14. Xử lý dữ liệu dạng bảng/14.6.1. Mã hóa one-hot.md",
     "14. Xử lý dữ liệu dạng bảng/14.6. Đặc trưng hạng mục.md",
     "14. Xử lý dữ liệu dạng bảng/14.4. Phân tích Khám phá dữ liệu - EDA.md",
-    "14. Xử lý dữ liệu dạng bảng/14.2. Machine Learning Pipeline.md",
     "_assets/Pasted image 20241212064626.png",
     "_assets/Pasted image 20241212045416.png",
     "_assets/Pasted image 20241212045237.png",

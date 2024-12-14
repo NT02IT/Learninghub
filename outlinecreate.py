@@ -1,26 +1,28 @@
 import os
+import urllib.parse
 
-def scan_directory(directory, prefix=''):
+def scan_directory(directory, prefix='##'):
     structure = ''
     for item in os.listdir(directory):
         if item.startswith('.') or item.startswith('_'):
             continue
         path = os.path.join(directory, item)
         if os.path.isdir(path):
-            structure += f'{prefix}{item}\n'
-            structure += scan_directory(path, prefix + '\t')
+            structure += f'{prefix} {item}  \n'
+            structure += scan_directory(path, prefix + '#')
         else:
             relative_path = os.path.relpath(path).replace('\\', '/')
-            structure += f'{prefix}[{item}](/{relative_path}) \n'
+            encoded_path = urllib.parse.quote(relative_path)
+            structure += f'{prefix} [{item}](/{encoded_path})  \n'
     return structure
 
 
 def save_structure_to_readme(directory, output_file='README.md'):
     structure = scan_directory(directory)
     with open(output_file, 'w', encoding='utf-8') as file:
-        file.write('# Project Structure\n\n')
+        file.write('# Mục lục\n\n')
         file.write(structure)
-    print(f'Cấu trúc thư mục đã được lưu vào {output_file}')
+    print(f'Đã tạo mục lục thành công!')
 
 
 if __name__ == '__main__':
