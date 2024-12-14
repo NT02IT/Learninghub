@@ -8,11 +8,11 @@ def scan_directory(directory, prefix=''):
         path = os.path.join(directory, item)
         if os.path.isdir(path):
             structure += f'{prefix}{item}\n'
-            structure += scan_directory(path, prefix + '    ')
+            structure += scan_directory(path, prefix + '\t')
         else:
-            relative_path = os.path.relpath(path)
-            file_url = f'{relative_path}'
-            structure += f'{prefix}[[{file_url}]] \n'
+            # relative_path = os.path.relpath(path)
+            # file_url = f'{relative_path}'
+            structure += f'{prefix}[[{item}]] \n'
     return structure
 
 

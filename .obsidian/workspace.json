@@ -189,8 +189,9 @@
   },
   "active": "0c9c2ca2cb435142",
   "lastOpenFiles": [
-    "outlinecreate.py",
+    "1. Design Fundamentals/1.1. Hiểu về thông số hình ảnh/1.1.2. DPI vs PPI 1.md",
     "README.md",
+    "outlinecreate.py",
     "Glossary/Mô hình Fogg.md",
     "Glossary/Biến độc lập.md",
     "14. Xử lý dữ liệu dạng bảng/14.3. Tại sao cần xây dựng Pipeline.md",
@@ -235,7 +236,6 @@
     "1. Design Fundamentals/1.4. Design History",
     "Case Studies",
     "12. Accessibility/12.6. Web Accessibility Principles (POUR)",
-    "12. Accessibility/12.5. A11Y",
-    "12. Accessibility/12.4. Accessibility Guidelines WCAG"
+    "12. Accessibility/12.5. A11Y"
   ]
 }
