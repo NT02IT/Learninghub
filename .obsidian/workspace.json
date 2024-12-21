@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d62e5911e2480fa1",
+        "id": "dd19964c47227de2",
         "type": "tabs",
         "children": [
           {
-            "id": "8b6ad90f6b9bb743",
+            "id": "18fd9e5609ab30ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/Lettering & Type Design.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lettering & Type Design"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "&",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,8 +69,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -138,11 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Glossary/Lettering & Type Design.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Lettering & Type Design"
+              "title": "Outline"
             }
           },
           {
@@ -185,12 +177,29 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian42-brat:BRAT": false,
+      "jupyter:Start Jupyter Server": false,
+      "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "8b6ad90f6b9bb743",
+  "active": "f827c7a1ef4225cb",
   "lastOpenFiles": [
+    "createoutline.ipynb",
     "README.md",
+    "Key note.md",
+    "Reference.md",
+    "Toolsheet.md",
+    "_CreateOutlineAuto.md",
+    "9. UI Foundation/9.9. Design Handoff/9.9.1. Design Handoff Cheatsheet.md",
+    "9. UI Foundation/9.10. Best Practices/113 Design Guidelines cho Homepage Usability.md",
+    "3. UX Foundation/3.0. Nền tảng UX/3.0.1. UX là gì.md",
+    "14. Xử lý dữ liệu dạng bảng/14.7. Embedding.md",
+    "3. UX Foundation/3.0. Nền tảng UX",
+    "14. Xử lý dữ liệu dạng bảng/14.1. Đặc điểm của dữ liệu dạng bảng.md",
+    "Personal Note/Application Setup",
+    "Personal Note",
+    "Glossary/Lettering & Type Design.md",
     "Glossary/Print %26 Publication Design.md",
     "1. Design Fundamentals/1.1. Hiểu về thông số hình ảnh/1.1.2. DPI vs PPI 1.md",
     "outlinecreate.py",
@@ -198,10 +207,7 @@
     "Glossary/Biến độc lập.md",
     "14. Xử lý dữ liệu dạng bảng/14.3. Tại sao cần xây dựng Pipeline.md",
     "_assets/Pasted image 20241211003739.png",
-    "Toolsheet.md",
     "_assets/Pasted image 20241214074441.png",
-    "Reference.md",
-    "Key note.md",
     "14. Xử lý dữ liệu dạng bảng/14.5.1. Xử lý các giá trị ngoại lệ.md",
     "Glossary/Mẫu theo phân bố nhánh.md",
     "Glossary/Mẫu thuận tiện.md",
@@ -209,16 +215,8 @@
     "Glossary/Phương pháp lấy mẫu định lượng.md",
     "Glossary/Giả thuyết nghiên cứu.md",
     "Glossary/Câu hỏi nghiên cứu.md",
-    "9. UI Foundation/9.10. Best Practices/113 Design Guidelines cho Homepage Usability.md",
     "1. Design Fundamentals/1.1. Hiểu về thông số hình ảnh/1.1.2. DPI vs PPI.md",
     "1. Design Fundamentals/1.1. Hiểu về thông số hình ảnh/1.1.1. Point vs Pixel.md",
-    "14. Xử lý dữ liệu dạng bảng/14.5.2. Xử lý các giá trị bị khuyết.md",
-    "14. Xử lý dữ liệu dạng bảng/14.7. Embedding.md",
-    "14. Xử lý dữ liệu dạng bảng/14.6.3. Crossing.md",
-    "14. Xử lý dữ liệu dạng bảng/14.6.2. Hashing.md",
-    "14. Xử lý dữ liệu dạng bảng/14.6.1. Mã hóa one-hot.md",
-    "14. Xử lý dữ liệu dạng bảng/14.6. Đặc trưng hạng mục.md",
-    "14. Xử lý dữ liệu dạng bảng/14.4. Phân tích Khám phá dữ liệu - EDA.md",
     "_assets/Pasted image 20241212064626.png",
     "_assets/Pasted image 20241212045416.png",
     "_assets/Pasted image 20241212045237.png",
@@ -233,10 +231,6 @@
     "14. Xử lý dữ liệu dạng bảng/Untitled",
     "14. Xử lý dữ liệu dạng bảng",
     "_assets/imgs",
-    "_assets",
-    "1. Design Fundamentals/1.4. Design History",
-    "Case Studies",
-    "12. Accessibility/12.6. Web Accessibility Principles (POUR)",
-    "12. Accessibility/12.5. A11Y"
+    "_assets"
   ]
 }

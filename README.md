@@ -51,6 +51,8 @@
 ### 3.6. UX Tools  
 ### 3.7. UX Metrics  
 ### 3.8. Common Design Pattern  
+### 3.0. Nền tảng UX  
+#### [3.0.1. UX là gì.md](/3.%20UX%20Foundation/3.0.%20N%E1%BB%81n%20t%E1%BA%A3ng%20UX/3.0.1.%20UX%20l%C3%A0%20g%C3%AC.md)  
 ## 4. UX Framework & UX Process  
 ### 4.1. Design Thinking  
 ### 4.2. Interaction Cycle  
@@ -83,6 +85,7 @@
 ### 9.7. Design Styles  
 ### 9.8. UI Audit  
 ### 9.9. Design Handoff  
+#### [9.9.1. Design Handoff Cheatsheet.md](/9.%20UI%20Foundation/9.9.%20Design%20Handoff/9.9.1.%20Design%20Handoff%20Cheatsheet.md)  
 ### 9.10. Best Practices  
 #### [113 Design Guidelines cho Homepage Usability.md](/9.%20UI%20Foundation/9.10.%20Best%20Practices/113%20Design%20Guidelines%20cho%20Homepage%20Usability.md)  
 ## 11. Design System  
@@ -129,3 +132,6 @@
 ## [Toolsheet.md](/Toolsheet.md)  
 ## [README.md](/README.md)  
 ## [outlinecreate.py](/outlinecreate.py)  
+## Personal Note  
+### Application Setup  
+## [createoutline.ipynb](/createoutline.ipynb)  
