@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "dd19964c47227de2",
+        "id": "65d86e73a6a872b1",
         "type": "tabs",
         "children": [
           {
-            "id": "18fd9e5609ab30ec",
+            "id": "cca844956ba2fe02",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -132,9 +137,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "README.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of README"
             }
           },
           {
@@ -185,8 +192,9 @@
   },
   "active": "f827c7a1ef4225cb",
   "lastOpenFiles": [
-    "createoutline.ipynb",
+    "_createoutline.ipynb",
     "README.md",
+    "createoutline.ipynb",
     "Key note.md",
     "Reference.md",
     "Toolsheet.md",
@@ -230,7 +238,6 @@
     "14. Xử lý dữ liệu dạng bảng/Canvas.canvas",
     "14. Xử lý dữ liệu dạng bảng/Untitled",
     "14. Xử lý dữ liệu dạng bảng",
-    "_assets/imgs",
-    "_assets"
+    "_assets/imgs"
   ]
 }
