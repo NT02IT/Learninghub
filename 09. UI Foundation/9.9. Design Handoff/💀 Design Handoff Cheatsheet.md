@@ -11,7 +11,7 @@ not complete: true
 ---
 ## Design Hand-off là gì?
 
-Design Hand-off là giai đoạn chuyển giao thiết kế từ Designer sang các [[Stakeholders]]. Đây là một bước quan trọng trong quy trình phát triển sản phẩm, đảm bảo rằng giải pháp thiết kế được hiện thực hóa một cách chính xác. Quá trình này không chỉ dừng lại ở việc chia sẻ file thiết kế, mà còn đòi hỏi Designer cung cấp đầy đủ thông tin, tài liệu và hướng dẫn để các Stakeholders dễ dàng hiểu và triển khai.
+Design Hand-off là giai đoạn chuyển giao thiết kế từ Designer sang các [[💀 Stakeholders]]. Đây là một bước quan trọng trong quy trình phát triển sản phẩm, đảm bảo rằng giải pháp thiết kế được hiện thực hóa một cách chính xác. Quá trình này không chỉ dừng lại ở việc chia sẻ file thiết kế, mà còn đòi hỏi Designer cung cấp đầy đủ thông tin, tài liệu và hướng dẫn để các Stakeholders dễ dàng hiểu và triển khai.
 
 *Vậy làm thế nào để quá trình này diễn ra hiệu quả và giảm thiểu sai sót?*
 

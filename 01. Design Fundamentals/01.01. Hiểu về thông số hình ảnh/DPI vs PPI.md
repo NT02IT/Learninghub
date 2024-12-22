@@ -56,7 +56,7 @@ Lưu ý thêm: Bạn cũng có thể nghe thấy thuật ngữ "samples per inch
 
 ## Pixel Size phụ thuộc vào ngữ cảnh
 
-Một [[1.1.1. Point vs Pixel|Pixel]] là đơn vị nhỏ nhất trên một lưới hiển thị hình ảnh số. DPI đo kích thước của các pixel, hoặc chấm, khi chúng được in ra.
+Một [[Point vs Pixel|Pixel]] là đơn vị nhỏ nhất trên một lưới hiển thị hình ảnh số. DPI đo kích thước của các pixel, hoặc chấm, khi chúng được in ra.
 
 ### Resizing làm thay đổi Pixel Sizes; Resampling làm thay đổi số lượng Pixel
 

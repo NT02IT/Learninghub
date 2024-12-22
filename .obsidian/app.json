@@ -12,5 +12,6 @@
   },
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "_extras/assets",
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": false,
+  "newFileLocation": "current"
 }
