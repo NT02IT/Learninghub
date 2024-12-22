@@ -1,6 +1,6 @@
 {
   "defaultViewMode": "preview",
-  "promptDelete": false,
+  "promptDelete": true,
   "spellcheck": true,
   "showLineNumber": false,
   "pdfExportSettings": {
@@ -11,5 +11,6 @@
     "downscalePercent": 100
   },
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "_assets"
+  "attachmentFolderPath": "_extras/assets",
+  "showUnsupportedFiles": false
 }

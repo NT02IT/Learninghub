@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "65d86e73a6a872b1",
+        "id": "20a1342cbfc7b36f",
         "type": "tabs",
         "children": [
           {
-            "id": "cca844956ba2fe02",
+            "id": "1b5bdbcac406cb71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "1. Design Fundamentals/1.1. Hiểu về thông số hình ảnh/1.1.2. DPI vs PPI.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "1.1.2. DPI vs PPI"
             }
           }
         ]
@@ -48,20 +48,13 @@
             }
           },
           {
-            "id": "79f3c174b2880d06",
+            "id": "eec3f3b3b3ed7b61",
             "type": "leaf",
             "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
             }
           },
           {
@@ -73,50 +66,22 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "right": {
-    "id": "a3410cb54378b0f2",
-    "type": "split",
-    "children": [
-      {
-        "id": "d4aac581ecc9d83a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3b4c155aa15e52c0",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
           },
           {
-            "id": "b53c2237e10cf3da",
+            "id": "79f3c174b2880d06",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
+              "type": "search",
               "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -133,18 +98,6 @@
             }
           },
           {
-            "id": "2a3cfe3b3b7a7de6",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "README.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of README"
-            }
-          },
-          {
             "id": "d2279f2761b546d6",
             "type": "leaf",
             "state": {
@@ -157,6 +110,34 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247.5
+  },
+  "right": {
+    "id": "a3410cb54378b0f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4aac581ecc9d83a",
+        "type": "tabs",
+        "dimension": 60.90686274509803,
+        "children": [
+          {
+            "id": "2a3cfe3b3b7a7de6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Design Fundamentals/1.1. Hiểu về thông số hình ảnh/1.1.2. DPI vs PPI.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1.1.2. DPI vs PPI"
+            }
           },
           {
             "id": "f827c7a1ef4225cb",
@@ -167,9 +148,86 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "9d3326dff31c839d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Design Fundamentals/1.1. Hiểu về thông số hình ảnh/1.1.2. DPI vs PPI.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1.1.2. DPI vs PPI"
+            }
+          },
+          {
+            "id": "aee9db65500d2f6c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Design Fundamentals/1.1. Hiểu về thông số hình ảnh/1.1.2. DPI vs PPI.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1.1.2. DPI vs PPI"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
+      },
+      {
+        "id": "beb2901b04c80325",
+        "type": "tabs",
+        "dimension": 39.09313725490196,
+        "children": [
+          {
+            "id": "8cbed4982e01f9d3",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "1. Design Fundamentals/1.1. Hiểu về thông số hình ảnh/1.1.2. DPI vs PPI.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224423,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of 1.1.2. DPI vs PPI"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,52 +250,52 @@
   },
   "active": "f827c7a1ef4225cb",
   "lastOpenFiles": [
-    "_createoutline.ipynb",
-    "README.md",
-    "createoutline.ipynb",
-    "Key note.md",
-    "Reference.md",
-    "Toolsheet.md",
-    "_CreateOutlineAuto.md",
-    "9. UI Foundation/9.9. Design Handoff/9.9.1. Design Handoff Cheatsheet.md",
+    "1. Design Fundamentals/1.1. Hiểu về thông số hình ảnh/1.1.1. Point vs Pixel.md",
+    "_extras/assets/Pasted image 20241211143620.png",
+    "1. Design Fundamentals/1.1. Hiểu về thông số hình ảnh/1.1.2. DPI vs PPI.md",
+    "_extras/assets/Pasted image 20241212064626.png",
+    "_extras/assets/Pasted image 20241212045416.png",
+    "_extras/assets/Pasted image 20241212045237.png",
+    "_extras/assets/Pasted image 20241212034418.png",
+    "_extras/assets/Pasted image 20241211143927.png",
+    "_extras/assets/Pasted image 20241212032250.png",
+    "_extras/assets/Pasted image 20241211144048.png",
+    "1. Design Fundamentals/1.1. Hiểu về thông số hình ảnh/_extras/assets",
+    "1. Design Fundamentals/1.1. Hiểu về thông số hình ảnh/_extras",
     "9. UI Foundation/9.10. Best Practices/113 Design Guidelines cho Homepage Usability.md",
+    "9. UI Foundation/9.9. Design Handoff/9.9.1. Design Handoff Cheatsheet.md",
     "3. UX Foundation/3.0. Nền tảng UX/3.0.1. UX là gì.md",
-    "14. Xử lý dữ liệu dạng bảng/14.7. Embedding.md",
-    "3. UX Foundation/3.0. Nền tảng UX",
+    "Key note.md",
+    "README.md",
+    "Glossary/Giả thuyết nghiên cứu.md",
+    "14. Xử lý dữ liệu dạng bảng/14.2. Machine Learning Pipeline.md",
     "14. Xử lý dữ liệu dạng bảng/14.1. Đặc điểm của dữ liệu dạng bảng.md",
-    "Personal Note/Application Setup",
-    "Personal Note",
+    "_extras/assets/readme-20241221160234654.png",
+    "assets/README/file-20241221155837954.png",
+    "assets/README",
+    "assets",
+    "_extras/utils/createoutline.ipynb",
+    "_extras/README.md",
+    "Personal Note/Helpful links.md",
+    "Personal Note/Toolsheet.md",
+    "_extras/templates",
+    "_extras",
+    "utils/_createoutline.ipynb",
+    "_extras/utils",
     "Glossary/Lettering & Type Design.md",
+    "Glossary/Stakeholders.md",
+    "createoutline.ipynb",
+    "_CreateOutlineAuto.md",
+    "14. Xử lý dữ liệu dạng bảng/14.7. Embedding.md",
     "Glossary/Print %26 Publication Design.md",
     "1. Design Fundamentals/1.1. Hiểu về thông số hình ảnh/1.1.2. DPI vs PPI 1.md",
-    "outlinecreate.py",
     "Glossary/Mô hình Fogg.md",
     "Glossary/Biến độc lập.md",
     "14. Xử lý dữ liệu dạng bảng/14.3. Tại sao cần xây dựng Pipeline.md",
-    "_assets/Pasted image 20241211003739.png",
-    "_assets/Pasted image 20241214074441.png",
     "14. Xử lý dữ liệu dạng bảng/14.5.1. Xử lý các giá trị ngoại lệ.md",
     "Glossary/Mẫu theo phân bố nhánh.md",
     "Glossary/Mẫu thuận tiện.md",
-    "14. Xử lý dữ liệu dạng bảng/14.5. Làm sạch dữ liệu.md",
-    "Glossary/Phương pháp lấy mẫu định lượng.md",
-    "Glossary/Giả thuyết nghiên cứu.md",
-    "Glossary/Câu hỏi nghiên cứu.md",
-    "1. Design Fundamentals/1.1. Hiểu về thông số hình ảnh/1.1.2. DPI vs PPI.md",
-    "1. Design Fundamentals/1.1. Hiểu về thông số hình ảnh/1.1.1. Point vs Pixel.md",
-    "_assets/Pasted image 20241212064626.png",
-    "_assets/Pasted image 20241212045416.png",
-    "_assets/Pasted image 20241212045237.png",
-    "_assets/Pasted image 20241212034418.png",
-    "_assets/Pasted image 20241212032250.png",
-    "_assets/Pasted image 20241211144048.png",
-    "_assets/Pasted image 20241211143927.png",
-    "_assets/Pasted image 20241211143620.png",
-    "Question Hub",
     "0. Glossary/0. Glossary Canvas.canvas",
-    "14. Xử lý dữ liệu dạng bảng/Canvas.canvas",
-    "14. Xử lý dữ liệu dạng bảng/Untitled",
-    "14. Xử lý dữ liệu dạng bảng",
-    "_assets/imgs"
+    "14. Xử lý dữ liệu dạng bảng/Canvas.canvas"
   ]
 }

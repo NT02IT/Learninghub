@@ -2,8 +2,8 @@
 
 ## 1. Design Fundamentals  
 ### 1.1. Hiểu về thông số hình ảnh  
-| Index | File | 
-| ----- | ---- | 
+| STT | Tên tệp | 
+| --- | -------- | 
 | 1 | [1.1.1. Point vs Pixel.md](/1.%20Design%20Fundamentals/1.1.%20Hi%E1%BB%83u%20v%E1%BB%81%20th%C3%B4ng%20s%E1%BB%91%20h%C3%ACnh%20%E1%BA%A3nh/1.1.1.%20Point%20vs%20Pixel.md) |  
 | 2 | [1.1.2. DPI vs PPI.md](/1.%20Design%20Fundamentals/1.1.%20Hi%E1%BB%83u%20v%E1%BB%81%20th%C3%B4ng%20s%E1%BB%91%20h%C3%ACnh%20%E1%BA%A3nh/1.1.2.%20DPI%20vs%20PPI.md) |  
 ### 1.2. Các yếu tố thị giác (Visual Elements)  
@@ -14,8 +14,8 @@
 ### 1.5. Layout  
 ### 1.4. Design History  
 ## Glossary  
-| Index | File | 
-| ----- | ---- | 
+| STT | Tên tệp | 
+| --- | -------- | 
 | 1 | [Biến nhân khẩu.md](/Glossary/Bi%E1%BA%BFn%20nh%C3%A2n%20kh%E1%BA%A9u.md) |  
 | 2 | [Biến phụ thuộc.md](/Glossary/Bi%E1%BA%BFn%20ph%E1%BB%A5%20thu%E1%BB%99c.md) |  
 | 3 | [Biến độc lập.md](/Glossary/Bi%E1%BA%BFn%20%C4%91%E1%BB%99c%20l%E1%BA%ADp.md) |  
@@ -46,6 +46,7 @@
 | 28 | [Lettering & Type Design.md](/Glossary/Lettering%20%26%20Type%20Design.md) |  
 | 29 | [Mỹ thuật (Fine Art).md](/Glossary/M%E1%BB%B9%20thu%E1%BA%ADt%20%28Fine%20Art%29.md) |  
 | 30 | [Nghệ thuật ứng dụng (Applied Art).md](/Glossary/Ngh%E1%BB%87%20thu%E1%BA%ADt%20%E1%BB%A9ng%20d%E1%BB%A5ng%20%28Applied%20Art%29.md) |  
+| 31 | [Stakeholders.md](/Glossary/Stakeholders.md) |  
 ## 3. UX Foundation  
 ### 3.1. HCD - Human Centered Design  
 ### 3.2. User Centered Design  
@@ -56,8 +57,8 @@
 ### 3.7. UX Metrics  
 ### 3.8. Common Design Pattern  
 ### 3.0. Nền tảng UX  
-| Index | File | 
-| ----- | ---- | 
+| STT | Tên tệp | 
+| --- | -------- | 
 | 1 | [3.0.1. UX là gì.md](/3.%20UX%20Foundation/3.0.%20N%E1%BB%81n%20t%E1%BA%A3ng%20UX/3.0.1.%20UX%20l%C3%A0%20g%C3%AC.md) |  
 ## 4. UX Framework & UX Process  
 ### 4.1. Design Thinking  
@@ -91,12 +92,12 @@
 ### 9.7. Design Styles  
 ### 9.8. UI Audit  
 ### 9.9. Design Handoff  
-| Index | File | 
-| ----- | ---- | 
+| STT | Tên tệp | 
+| --- | -------- | 
 | 1 | [9.9.1. Design Handoff Cheatsheet.md](/9.%20UI%20Foundation/9.9.%20Design%20Handoff/9.9.1.%20Design%20Handoff%20Cheatsheet.md) |  
 ### 9.10. Best Practices  
-| Index | File | 
-| ----- | ---- | 
+| STT | Tên tệp | 
+| --- | -------- | 
 | 1 | [113 Design Guidelines cho Homepage Usability.md](/9.%20UI%20Foundation/9.10.%20Best%20Practices/113%20Design%20Guidelines%20cho%20Homepage%20Usability.md) |  
 ## 11. Design System  
 ### 11.2. Atomic Design  
@@ -116,9 +117,6 @@
 ### 2.1. Pre-launch  
 ### 2.2. Launch  
 ### 2.3. Post-launch  
-| Index | File | 
-| ----- | ---- | 
-| 1 | [Reference.md](/Reference.md) |  
 ## 10. Frontend Basic  
 ### 10.1. Semantic HTML  
 ### 10.2. CSS  
@@ -126,8 +124,8 @@
 ### 10.4. SASS  
 ## Case Studies  
 ## 14. Xử lý dữ liệu dạng bảng  
-| Index | File | 
-| ----- | ---- | 
+| STT | Tên tệp | 
+| --- | -------- | 
 | 1 | [14.4. Phân tích Khám phá dữ liệu - EDA.md](/14.%20X%E1%BB%AD%20l%C3%BD%20d%E1%BB%AF%20li%E1%BB%87u%20d%E1%BA%A1ng%20b%E1%BA%A3ng/14.4.%20Ph%C3%A2n%20t%C3%ADch%20Kh%C3%A1m%20ph%C3%A1%20d%E1%BB%AF%20li%E1%BB%87u%20-%20EDA.md) |  
 | 2 | [14.1. Đặc điểm của dữ liệu dạng bảng.md](/14.%20X%E1%BB%AD%20l%C3%BD%20d%E1%BB%AF%20li%E1%BB%87u%20d%E1%BA%A1ng%20b%E1%BA%A3ng/14.1.%20%C4%90%E1%BA%B7c%20%C4%91i%E1%BB%83m%20c%E1%BB%A7a%20d%E1%BB%AF%20li%E1%BB%87u%20d%E1%BA%A1ng%20b%E1%BA%A3ng.md) |  
 | 3 | [14.2. Machine Learning Pipeline.md](/14.%20X%E1%BB%AD%20l%C3%BD%20d%E1%BB%AF%20li%E1%BB%87u%20d%E1%BA%A1ng%20b%E1%BA%A3ng/14.2.%20Machine%20Learning%20Pipeline.md) |  
@@ -142,11 +140,14 @@
 | 12 | [14.7. Embedding.md](/14.%20X%E1%BB%AD%20l%C3%BD%20d%E1%BB%AF%20li%E1%BB%87u%20d%E1%BA%A1ng%20b%E1%BA%A3ng/14.7.%20Embedding.md) |  
 | 13 | [14.8. Word2vec.md](/14.%20X%E1%BB%AD%20l%C3%BD%20d%E1%BB%AF%20li%E1%BB%87u%20d%E1%BA%A1ng%20b%E1%BA%A3ng/14.8.%20Word2vec.md) |  
 ## Question Hub  
-| Index | File | 
-| ----- | ---- | 
+| STT | Tên tệp | 
+| --- | -------- | 
 | 1 | [Key note.md](/Key%20note.md) |  
-| 2 | [Toolsheet.md](/Toolsheet.md) |  
-| 3 | [README.md](/README.md) |  
-| 4 | [outlinecreate.py](/outlinecreate.py) |  
+| 2 | [README.md](/README.md) |  
+| 3 | [outlinecreate.py](/outlinecreate.py) |  
 ## Personal Note  
+| STT | Tên tệp | 
+| --- | -------- | 
+| 1 | [Helpful links.md](/Personal%20Note/Helpful%20links.md) |  
+| 2 | [Toolsheet.md](/Personal%20Note/Toolsheet.md) |  
 ### Application Setup  
