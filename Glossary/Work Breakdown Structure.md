@@ -43,7 +43,7 @@ Con người: Những người có mối quan hệ trực tiếp hay gián tiế
 
 ### 1. Từ điển WBS (WBS Dictionary)
 
-Từ điển WBS là tài liệu bổ sung cho WBS. Nó cung cấp đầy đủ thông tin từ mã sản phẩm, mô tả công việc, liệt kê nguồn lực, tiêu chí đánh giá, yêu cầu chất lượng, ước tính chi phí & thời gian, và tài liệu tham khảo.
+Từ điển WBS là tài liệu bổ sung cho WBS. Nó cung cấp đầy đủ thông tin từ mã sản phẩm, mô tả công việc, liệt kê nguồn lực, tiêu chí đánh giá, yêu cầu chất lượng, ước tính chi phí, [[Ước lượng thời gian]], và tài liệu tham khảo.
 
 ![[Pasted image 20241225095402.png]]
 

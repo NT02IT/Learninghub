@@ -8,37 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "028b1263df8bf4ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "17. Quản lý dự án/Lập kế hoạch dự án.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lập kế hoạch dự án"
-            }
-          },
-          {
-            "id": "0aa0a2f6d3dcba48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "17. Quản lý dự án/Lập kế hoạch dự án.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lập kế hoạch dự án"
-            }
-          },
-          {
-            "id": "9d0b2408473a8ccd",
+            "id": "5608c10397c60be8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -51,9 +21,24 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "a0b52dc97808a6fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glossary/Work Breakdown Structure.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Work Breakdown Structure"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +64,7 @@
             }
           },
           {
-            "id": "eec3f3b3b3ed7b61",
+            "id": "942c46f733c76c47",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -104,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "finish",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "17. Quản lý dự án/README.md"
+                "file": "Glossary/Work Breakdown Structure.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Work Breakdown Structure"
             }
           },
           {
@@ -186,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "17. Quản lý dự án/Quản lý tiến độ dự án.md",
+                "file": "17. Quản lý dự án/Dự án là gì.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Quản lý tiến độ dự án"
+              "title": "Backlinks for Dự án là gì"
             }
           },
           {
@@ -205,12 +190,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "17. Quản lý dự án/Quản lý tiến độ dự án.md",
+                "file": "17. Quản lý dự án/Dự án là gì.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Quản lý tiến độ dự án"
+              "title": "Outgoing links from Dự án là gì"
             }
           }
         ],
@@ -227,7 +212,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "17. Quản lý dự án/README.md",
+                "file": "Glossary/Work Breakdown Structure.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -250,12 +235,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224438,
+                  "scale": 0.7132754626224439,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of README"
+              "title": "Graph of Work Breakdown Structure"
             }
           }
         ]
@@ -273,60 +258,61 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
+      "random-note:Open random note": false,
       "obsidian-git:Open Git source control": false,
       "obsidian42-brat:BRAT": false,
       "jupyter:Start Jupyter Server": false,
-      "jupyter:Create Jupyter Notebook": false,
-      "random-note:Open random note": false
+      "jupyter:Create Jupyter Notebook": false
     }
   },
   "active": "f827c7a1ef4225cb",
   "lastOpenFiles": [
-    "Glossary/Work Breakdown Structure.md",
-    "17. Quản lý dự án/Lập kế hoạch dự án.md",
-    "17. Quản lý dự án/Quản lý phạm vi dự án.md",
+    "Glossary/Work Breakdown Structure.docx",
     "17. Quản lý dự án/README.md",
-    "17. Quản lý dự án/Quy trình quản lý dự án.md",
-    "_extras/assets/Pasted image 20241225101324.png",
-    "_extras/assets/Pasted image 20241225095443.png",
-    "_extras/assets/Pasted image 20241225095402.png",
-    "_extras/assets/Pasted image 20241225094520.png",
-    "_extras/assets/Pasted image 20241225094506.png",
-    "_extras/assets/Pasted image 20241225094201.png",
-    "17. Quản lý dự án/Quản lý tiến độ dự án.md",
+    "17. Quản lý dự án/Quản lý phạm vi dự án.md",
+    "17. Quản lý dự án/~$ản lý phạm vi dự án.docx",
+    "17. Quản lý dự án/Quản lý phạm vi dự án.docx",
+    "17. Quản lý dự án/Lập kế hoạch dự án.md",
+    "17. Quản lý dự án/~$p kế hoạch dự án.docx",
+    "17. Quản lý dự án/Lập kế hoạch dự án.docx",
     "17. Quản lý dự án/Xác định dự án.md",
-    "17. Quản lý dự án/Quản lý thời gian dự án.md",
+    "17. Quản lý dự án/~$c định dự án.docx",
+    "17. Quản lý dự án/Xác định dự án.docx",
     "17. Quản lý dự án/Quản lý dự án là gì.md",
+    "17. Quản lý dự án/Quy trình quản lý dự án.md",
+    "17. Quản lý dự án/~$y trình quản lý dự án.docx",
+    "17. Quản lý dự án/Quy trình quản lý dự án.docx",
+    "17. Quản lý dự án/~$ản lý dự án là gì.docx",
+    "17. Quản lý dự án/Quản lý dự án là gì.docx",
     "17. Quản lý dự án/Dự án là gì.md",
+    "17. Quản lý dự án/Phân bố lực lượng, tài nguyên.md",
+    "17. Quản lý dự án/Lập tiến độ thực hiện.md",
+    "Glossary/💀 Gantt chart.md",
+    "17. Quản lý dự án/Dự toán ngân sách dự án.md",
+    "_extras/assets/Pasted image 20241225175532.png",
+    "_extras/assets/Pasted image 20241225175350.png",
+    "_extras/assets/Pasted image 20241225175158.png",
+    "_extras/assets/Pasted image 20241225174854.png",
+    "_extras/assets/Pasted image 20241225174826.png",
+    "_extras/assets/Pasted image 20241225173846.png",
+    "_extras/assets/Pasted image 20241225173806.png",
+    "_extras/assets/Pasted image 20241225173119.png",
+    "_extras/assets/Pasted image 20241225170246.png",
+    "_extras/assets/Pasted image 20241225170139.png",
+    "Glossary/Sơ đồ PERT.md",
+    "17. Quản lý dự án/Ước lượng thời gian.md",
+    "17. Quản lý dự án/Quản lý tiến độ dự án.md",
+    "17. Quản lý dự án/Kiểm soát rủi ro.md",
+    "Personal Note/Freelancer grow up.md",
+    "Glossary/Work Breakdown Structure.md",
+    "17. Quản lý dự án/Quản lý thời gian dự án.md",
     "README.md",
     "14. Xử lý dữ liệu dạng bảng/14.6. Đặc trưng hạng mục.md",
     "Glossary/Agenda.md",
-    "Glossary/💀 Gantt chart.md",
     "09. UI Foundation/9.9. Design Handoff/💀 Design Handoff Cheatsheet.md",
     "Glossary/💀 Stakeholders.md",
     "09. UI Foundation/9.10. Best Practices/💀 113 Design Guidelines cho Homepage Usability.md",
-    "17. Quản lý dự án/💀 Định mức chi phí quản lý dự án.md",
-    "_extras/assets/Pasted image 20241222233052.png",
-    "_extras/assets/Pasted image 20241222221325.png",
-    "_extras/assets/Pasted image 20241222221200.png",
-    "17. Quản lý dự án/_extras/assets/quản lý tiến độ dự án-20241222220449846.png",
-    "17. Quản lý dự án/_extras/assets",
-    "17. Quản lý dự án/_extras",
     "01. Design Fundamentals/01.01. Hiểu về thông số hình ảnh/DPI vs PPI.md",
-    "01. Design Fundamentals/01.01. Hiểu về thông số hình ảnh/_extras/assets",
-    "01. Design Fundamentals/01.01. Hiểu về thông số hình ảnh/_extras",
-    "01. Design Fundamentals/01.01. Hiểu về thông số hình ảnh/Point vs Pixel.md",
-    "Key note.md",
-    "_extras/utils/createoutline.ipynb",
-    "Glossary/MOI Model for leadership.md",
-    "17. Quản lý dự án",
-    "1. Design Fundamentals/1.1. Hiểu về thông số hình ảnh/_extras/assets",
-    "1. Design Fundamentals/1.1. Hiểu về thông số hình ảnh/_extras",
-    "03. UX Foundation/3.0. Nền tảng UX/3.0.1. UX là gì.md",
-    "Glossary/Giả thuyết nghiên cứu.md",
-    "14. Xử lý dữ liệu dạng bảng/14.2. Machine Learning Pipeline.md",
-    "assets/README",
-    "assets",
     "0. Glossary/0. Glossary Canvas.canvas",
     "14. Xử lý dữ liệu dạng bảng/Canvas.canvas"
   ]

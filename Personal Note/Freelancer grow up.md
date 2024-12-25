@@ -1,0 +1,5 @@
+- [ ] **Tracking thời gian** cho các task phổ biến, lấy căn cứ đo lường thời gian trung bình task đó để có căn cứ tính giá Freelance.
+- [ ] **Xây dựng Quy trình** (customize) cho các task thường làm.
+- [ ] **Xây dựng Personal Brand**.
+- [ ] **Xây dựng Template** (customize) cho các task thường làm.
+- [ ] **Tổ chức lưu trữ Tài nguyên** thường sử dụng (Theo dịp lễ hội, mùa; Theo phân loại tài nguyên;...)

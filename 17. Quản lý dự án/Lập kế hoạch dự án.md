@@ -41,7 +41,7 @@ Bước đầu của quy trình lập kế hoạch dự án đó là xác địn
 - **Đặt mục tiêu [[SMART]]:** Các mục tiêu được xác lập cần phải đảm bảo tuân thủ theo nguyên tắc SMART – tức là mục tiêu cần phải cụ thể, đo lường được, khả thi, có ý nghĩa và có thời hạn cụ thể.
 - **Tập trung vào kết quả cuối cùng:** Đảm bảo rằng các mục tiêu được đặt ra phải tập trung vào kết quả cuối cùng mà dự án muốn đạt được. Đây là những kết quả có tính phát triển và có ý nghĩa, giá trị cụ thể mà sự can thiệp của dự án mang lại.
 
-### Bước 2: Xây dựng chiến lược quản trị rủi ro
+### Bước 2: Xây dựng chiến lược [[Kiểm soát rủi ro]]
 
 Việc đạt được các mục tiêu của dự án luôn chịu ảnh hưởng bởi các yếu tố nằm ngoài khả năng kiểm soát trực tiếp của người quản lý dự án. Do đó, điều quan trọng là phải theo dõi các yếu tố này để xác định xem những giả định đưa ra khi thiết kế dự án. Bởi vậy trong các bước lập kế hoạch dự án, việc đánh giá rủi ro là yếu tố quan trọng nhất đảm bảo tính khả thi cho toàn bộ dự án.
 

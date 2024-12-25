@@ -30,8 +30,6 @@ Quy trình quản trị dự án là hoạt động diễn ra liên tục, xuyê
 
 **Quản trị dự án** (Project Governance) đề cập đến khung, chức năng và quy trình hướng dẫn các hoạt động quản lý dự án nhằm tạo ra một sản phẩm, dịch vụ hoặc kết quả duy nhất để đáp ứng các mục tiêu của tổ chức, chiến lược và hoạt động. 4 lĩnh vực quản trị là liên kết, rủi ro, hiệu suất và truyền thông. Mỗi lĩnh vực đều có các chức năng sau: giám sát, kiểm soát, tích hợp và ra quyết định. Mỗi chức năng có quy trình và hoạt động hỗ trợ quản trị cho các dự án độc lập hoặc các dự án hoạt động trong một chương trình hoặc danh mục.
 
-## [[Quy trình quản lý dự án]]
-
 ## Về người quản lý dự án (Project Manager)
 
 ### Trách nhiệm của Người quản lý dự án (PM)

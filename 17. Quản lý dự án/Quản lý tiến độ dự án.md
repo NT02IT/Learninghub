@@ -23,7 +23,7 @@ Một phương pháp hiệu quả giúp nhà quản lý có thể sắp xếp c�
 
 ### 3. Đánh giá nguồn lực cần có
 
-Để có thể đưa dự án đi đúng tiến độ thì việc xác định nguồn lực là yếu tố không thể thiếu trong quy trình quản lý tiến độ dự án. Ở bước này người quản lý cần phải xác định được các nguồn lực cần có để thực hiện các công việc để mang lại kết quả tốt nhất. Việc cần làm ở dây đó chính là phân tích nguồn nhân lực cần phân bổ cho công việc, tính [[💀 Định mức chi phí quản lý dự án]] cần phải có, thời gian thực hiện công việc và trang thiết bị để có kế hoạch phân bổ cho các hoạt động một cách phù hợp.
+Để có thể đưa dự án đi đúng tiến độ thì việc xác định nguồn lực là yếu tố không thể thiếu trong quy trình quản lý tiến độ dự án. Ở bước này người quản lý cần phải xác định được các nguồn lực cần có để thực hiện các công việc để mang lại kết quả tốt nhất. Việc cần làm ở dây đó chính là phân tích nguồn nhân lực cần phân bổ cho công việc, tính [[Dự toán ngân sách dự án]] cần phải có, thời gian thực hiện công việc và trang thiết bị để có kế hoạch phân bổ cho các hoạt động một cách phù hợp.
 
 ### 4. Xác định thời gian để thực hiện các công việc
 
