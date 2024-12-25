@@ -1,7 +1,7 @@
 {
   "defaultViewMode": "preview",
   "promptDelete": true,
-  "spellcheck": true,
+  "spellcheck": false,
   "showLineNumber": false,
   "pdfExportSettings": {
     "includeName": true,

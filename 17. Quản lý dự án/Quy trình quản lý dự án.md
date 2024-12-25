@@ -3,28 +3,29 @@ created: 2024-12-22T21:17:00
 tags:
   - ProjectManagement
 ---
-## Quản lý dự án là gì?
+## Các nguyên lý chung của phương pháp luận Quản lý dự án
 
-> **Quản lý dự án** là quá trình lập kế hoạch, tổ chức, điều phối và kiểm soát các nguồn lực và nhiệm vụ nhằm đạt được mục tiêu cụ thể trong một khoảng thời gian và ngân sách nhất định.
-
-**Quy trình quản lý dự án** là quá trình nhà quản lý ứng dụng các kiến thức, kỹ năng, công cụ, kinh nghiệm để thực hiện quá trình *lập kế hoạch*, *điều phối* thời gian, nguồn lực và *giám sát* quá trình thực hiện dự án nhằm đảm bảo cho dự án hoàn thành đúng thời hạn, trong phạm vi ngân sách cho phép và đáp ứng các yêu cầu tiêu chuẩn về kỹ thuật và chất lượng dự án.
-
-## Vai trò cốt lõi của quản lý dự án
-
-Quy trình quản trị dự án là hoạt động diễn ra liên tục, xuyên suốt vòng đời của dự án, và cũng là yếu tố then chốt quyết định đến sự thành bại của dự án. Những vai trò cốt lõi của chu trình quản lý dự án bao gồm:
-- Đảm bảo đạt được các mục tiêu dự án
-- Điều phối, phân bổ các nguồn lực dự án
-- Đảm bảo dự án thực hiện đúng tiến độ
+- Linh hoạt
+- Hướng kết quả, không hướng nhiệm vụ (nhằm thỏa mãn các "thượng đế" - khách hàng)
+- Dân chủ: Huy động sự tham gia của mọi người 
+- Làm rõ trách nhiệm (giấy tờ, hồ sơ, chữ ký,...)
+- Phân cấp có mức độ: Không nên chia thành quá nhiều mức
+- Tài liệu cô đọng và có chất lượng (quá nhiều tài liệu tức là có quá ít thông tin)
+- Thực dụng: Kết quả quan trọng hơn công cụ hay kỹ thuật
+- Tạo ra các độ đo tốt (để có đánh giá đúng)
+- Suy nghĩ một cách nhìn xa trông rộng
+- Cải tiến liên tục 
 
 ## Quy trình quản lý dự án theo ISO
 
 Quy trình quản lý dự án theo tiêu chuẩn quốc tế [ISO 21500:2012](https://iso-cert.vn/tieu-chuan-chung-nhan-iso-21500-ve-quan-ly-du-an/) được xây dựng và phát triển bởi Viện Quản lý dự án, và được chia thành 5 giai đoạn cơ bản, bao gồm:
 
-### 1. Initiating: Khởi động dự án
+### 1. Initiating: [[Xác định dự án]]
 
 Giai đoạn đầu tiên của quy trình quản lý dự án bao gồm xác định nhu cầu của dự án, việc xác định các bên liên quan và các mục tiêu cụ thể của dự án. 
 
 Các hoạt động trong giai đoạn này bao gồm:
+- Xác định mục đích và mục tiêu dự án
 - Thực hiện nghiên cứu thị trường và đánh giá khả năng thực hiện của dự án.
 - Xây dựng tài liệu khởi động dự án ([[Project Charter]]) để xác định mục tiêu dự án và phân phối thông tin với các bên liên quan.
 - Xác định các bên liên quan ([[💀 Stakeholders]]) của dự án và thiết lập các kế hoạch liên quan.
@@ -34,7 +35,6 @@ Các hoạt động trong giai đoạn này bao gồm:
 Lập kế hoạch dự án là một quá trình bắt đầu từ việc thiết lập các mục tiêu, quyết định các chiến lược, các chính sách, kế hoạch chi tiết để đạt được mục tiêu đã định. 
 
 Trong giai đoạn lập kế hoạch dự án, nhà quản trị cần thực hiện những nội dung chính sau:
-- **Xác định mục tiêu của dự án:** Mục tiêu chung của dự án là các kết quả mang tính phát triển về thể chất, tài chính, thể chế, xã hội, môi trường hoặc các kết quả phát triển khác mà dự án được kỳ vọng sẽ đạt được..
 - **Phân tích rủi ro:** Phân tích rủi ro sẽ giúp xác định những rủi ro kịp thời và có hành động để quản lý hoặc giảm thiểu rủi ro khi có thể. Nếu rủi ro nằm ở mức từ trung bình đến thấp, cần chuẩn bị 1 chiến lược quản lý rủi ro cho hoạt động/kết quả. Nếu mức độ rủi ro cao, nên thay đổi cấu trúc dự án để các tránh nguy cơ này.
 - **Các hoạt động của dự án:** Hoạt động hoặc công việc được thực hiện mà thông qua đó, các đầu vào như ngân sách, nguồn nhân lực và các loại tài nguyên khác được huy động để đạt được kết quả của dự án. Dựa vào mục tiêu và kết quả mà dự kiến, nhà quản trị sẽ tiến hành thiết lập các hoạt động của dự án.
 - **Ngân sách thực hiện dự án:** Khi chuẩn bị ngân sách dự án, phải thiết lập đúng chi tiết tính toán, đảm bảo rằng các con số của dự án là đáng tin cậy và thực tế.

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "17. Quản lý dự án/Quản lý thời gian dự án.md",
+                "file": "17. Quản lý dự án/Lập kế hoạch dự án.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quản lý thời gian dự án"
+              "title": "Lập kế hoạch dự án"
             }
           },
           {
@@ -28,17 +28,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14. Xử lý dữ liệu dạng bảng/14.6. Đặc trưng hạng mục.md",
-                "mode": "preview",
+                "file": "17. Quản lý dự án/Lập kế hoạch dự án.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14.6. Đặc trưng hạng mục"
+              "title": "Lập kế hoạch dự án"
+            }
+          },
+          {
+            "id": "9d0b2408473a8ccd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "17. Quản lý dự án/README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"not complete\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +142,8 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -148,10 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "14. Xử lý dữ liệu dạng bảng/14.6. Đặc trưng hạng mục.md"
+                "file": "17. Quản lý dự án/README.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 14.6. Đặc trưng hạng mục"
+              "title": "Outline of README"
             }
           },
           {
@@ -211,9 +227,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "14. Xử lý dữ liệu dạng bảng/14.6. Đặc trưng hạng mục.md",
+                "file": "17. Quản lý dự án/README.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -234,12 +250,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.713275462622443,
+                  "scale": 0.7132754626224438,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 14.6. Đặc trưng hạng mục"
+              "title": "Graph of README"
             }
           }
         ]
@@ -261,21 +277,32 @@
       "obsidian42-brat:BRAT": false,
       "jupyter:Start Jupyter Server": false,
       "jupyter:Create Jupyter Notebook": false,
-      "random-note:Open random note": false,
-      "zk-prefixer:Create new unique note": false
+      "random-note:Open random note": false
     }
   },
   "active": "f827c7a1ef4225cb",
   "lastOpenFiles": [
-    "README.md",
+    "Glossary/Work Breakdown Structure.md",
+    "17. Quản lý dự án/Lập kế hoạch dự án.md",
+    "17. Quản lý dự án/Quản lý phạm vi dự án.md",
     "17. Quản lý dự án/README.md",
+    "17. Quản lý dự án/Quy trình quản lý dự án.md",
+    "_extras/assets/Pasted image 20241225101324.png",
+    "_extras/assets/Pasted image 20241225095443.png",
+    "_extras/assets/Pasted image 20241225095402.png",
+    "_extras/assets/Pasted image 20241225094520.png",
+    "_extras/assets/Pasted image 20241225094506.png",
+    "_extras/assets/Pasted image 20241225094201.png",
+    "17. Quản lý dự án/Quản lý tiến độ dự án.md",
+    "17. Quản lý dự án/Xác định dự án.md",
     "17. Quản lý dự án/Quản lý thời gian dự án.md",
+    "17. Quản lý dự án/Quản lý dự án là gì.md",
+    "17. Quản lý dự án/Dự án là gì.md",
+    "README.md",
+    "14. Xử lý dữ liệu dạng bảng/14.6. Đặc trưng hạng mục.md",
     "Glossary/Agenda.md",
     "Glossary/💀 Gantt chart.md",
     "09. UI Foundation/9.9. Design Handoff/💀 Design Handoff Cheatsheet.md",
-    "17. Quản lý dự án/Quản lý tiến độ dự án.md",
-    "17. Quản lý dự án/Lập kế hoạch dự án.md",
-    "17. Quản lý dự án/Quy trình quản lý dự án.md",
     "Glossary/💀 Stakeholders.md",
     "09. UI Foundation/9.10. Best Practices/💀 113 Design Guidelines cho Homepage Usability.md",
     "17. Quản lý dự án/💀 Định mức chi phí quản lý dự án.md",
@@ -285,15 +312,9 @@
     "17. Quản lý dự án/_extras/assets/quản lý tiến độ dự án-20241222220449846.png",
     "17. Quản lý dự án/_extras/assets",
     "17. Quản lý dự án/_extras",
-    "17. Quản lý dự án/_extras/assets/quản lý tiến độ dự án-20241222220246168.png",
-    "17. Quản lý dự án/_extras/assets/quản lý tiến độ dự án-20241222220130854.png",
-    "17. Quản lý dự án/_extras/assets/quản lý tiến độ dự án-20241222220125108.png",
     "01. Design Fundamentals/01.01. Hiểu về thông số hình ảnh/DPI vs PPI.md",
-    "01. Design Fundamentals/01.01. Hiểu về thông số hình ảnh/_extras/assets/dpi vs ppi-20241222215930221.png",
     "01. Design Fundamentals/01.01. Hiểu về thông số hình ảnh/_extras/assets",
     "01. Design Fundamentals/01.01. Hiểu về thông số hình ảnh/_extras",
-    "17. Quản lý dự án/_extras/assets/quản lý tiến độ dự án-20241222215802385.png",
-    "17. Quản lý dự án/_extras/assets/quản lý tiến độ dự án-20241222215406059.png",
     "01. Design Fundamentals/01.01. Hiểu về thông số hình ảnh/Point vs Pixel.md",
     "Key note.md",
     "_extras/utils/createoutline.ipynb",
@@ -304,15 +325,8 @@
     "03. UX Foundation/3.0. Nền tảng UX/3.0.1. UX là gì.md",
     "Glossary/Giả thuyết nghiên cứu.md",
     "14. Xử lý dữ liệu dạng bảng/14.2. Machine Learning Pipeline.md",
-    "14. Xử lý dữ liệu dạng bảng/14.1. Đặc điểm của dữ liệu dạng bảng.md",
     "assets/README",
     "assets",
-    "_extras/README.md",
-    "Personal Note/Helpful links.md",
-    "Personal Note/Toolsheet.md",
-    "Glossary/Lettering & Type Design.md",
-    "_CreateOutlineAuto.md",
-    "14. Xử lý dữ liệu dạng bảng/14.7. Embedding.md",
     "0. Glossary/0. Glossary Canvas.canvas",
     "14. Xử lý dữ liệu dạng bảng/Canvas.canvas"
   ]
