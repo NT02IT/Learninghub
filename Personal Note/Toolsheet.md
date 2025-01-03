@@ -12,3 +12,4 @@ tags:
 | 4   | Google Analytics   | #Tracking #Report                                                                                                               |
 | 5   | Google Colab       | #Notebook #Python #DataAnalysis #MachineLearning #DataVisualize                                                                 |
 | 6   | Google NotebookLM  | #AI #GenAI #PDF #AIAssistant                                                                                                    |
+| 7   | Airtable           | #Database #TableData #MockData #API #Report #DataVisualize                                                                      |

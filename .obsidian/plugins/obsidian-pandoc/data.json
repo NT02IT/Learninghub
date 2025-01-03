@@ -10,6 +10,6 @@
   "pandoc": null,
   "pdflatex": null,
   "outputFolder": "",
-  "extraArguments": "",
+  "extraArguments": "--csl https://raw.githubusercontent.com/citation-style-language/styles/refs/heads/master/academy-of-management-review.csl",
   "exportFrom": "html"
 }

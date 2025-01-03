@@ -5,6 +5,7 @@
     "tags": "tags",
     "created": "datetime",
     "category": "multitext",
-    "not complete": "checkbox"
+    "not complete": "checkbox",
+    "last modified": "datetime"
   }
 }

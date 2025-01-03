@@ -54,7 +54,7 @@
 #### 9.1. Type of User Interface  
 #### 9.10. Best Practices  
 > [!note] Danh sách bài viết
-> 1. [113 Design Guidelines cho Homepage Usability.md](💀%20113%20Design%20Guidelines%20cho%20Homepage%20Usability.md)
+> 1. [💀 113 Design Guidelines cho Homepage Usability.md](/09.%20UI%20Foundation/9.10.%20Best%20Practices/%F0%9F%92%80%20113%20Design%20Guidelines%20cho%20Homepage%20Usability.md)
 #### 9.2. Web Design and Development  
 #### 9.3. Typography for UI  
 #### 9.4. Color for UI  
@@ -64,7 +64,7 @@
 #### 9.8. UI Audit  
 #### 9.9. Design Handoff  
 > [!note] Danh sách bài viết
-> 1. [9.9.1. Design Handoff Cheatsheet.md](💀%20Design%20Handoff%20Cheatsheet.md)
+> 1. [💀 Design Handoff Cheatsheet.md](/09.%20UI%20Foundation/9.9.%20Design%20Handoff/%F0%9F%92%80%20Design%20Handoff%20Cheatsheet.md)
 ## 10. Frontend Basic  
 #### 10.1. Semantic HTML  
 #### 10.2. CSS  
@@ -97,50 +97,99 @@
 > 11. [14.6.3. Crossing.md](/14.%20X%E1%BB%AD%20l%C3%BD%20d%E1%BB%AF%20li%E1%BB%87u%20d%E1%BA%A1ng%20b%E1%BA%A3ng/14.6.3.%20Crossing.md)
 > 12. [14.7. Embedding.md](/14.%20X%E1%BB%AD%20l%C3%BD%20d%E1%BB%AF%20li%E1%BB%87u%20d%E1%BA%A1ng%20b%E1%BA%A3ng/14.7.%20Embedding.md)
 > 13. [14.8. Word2vec.md](/14.%20X%E1%BB%AD%20l%C3%BD%20d%E1%BB%AF%20li%E1%BB%87u%20d%E1%BA%A1ng%20b%E1%BA%A3ng/14.8.%20Word2vec.md)
-## 15. Data Visualize  
-## 16. Thinking Tools  
-## 17. Quản lý dự án  
+## 15. Communicate  
+#### Data Visualize  
+> [!note] Danh sách bài viết
+> 1. [Gantt chart.md](/15.%20Communicate/Gantt%20chart.md)
+> 2. [Sơ đồ PERT.md](/15.%20Communicate/S%C6%A1%20%C4%91%E1%BB%93%20PERT.md)
+#### Template  
+> [!note] Danh sách bài viết
+> 1. [Work Breakdown Structure.md](/15.%20Communicate/Template/Work%20Breakdown%20Structure.md)
+#### UML  
+## 16. Algorithm  
+## 17. Software Enginerring  
+#### 17.1. Tổng quan Công nghệ phần mềm  
+#### 17.2. Quản lý Dự án phần mềm  
+#### 17.3. Các mô hình phát triển phần mềm  
+#### 17.4. Phân tích hệ thống (System Analysis)  
+#### 17.5. Thiết kế phần mềm  
+#### 17.6. Phát triển phần mềm  
+#### 17.7. Kiểm thử phần mềm  
+## 18. Quản lý dự án  
+> [!note] Danh sách bài viết
+> 1. [Dự toán ngân sách dự án.docx](/18.%20Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n/D%E1%BB%B1%20to%C3%A1n%20ng%C3%A2n%20s%C3%A1ch%20d%E1%BB%B1%20%C3%A1n.docx)
+> 2. [Dự toán ngân sách dự án.md](/18.%20Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n/D%E1%BB%B1%20to%C3%A1n%20ng%C3%A2n%20s%C3%A1ch%20d%E1%BB%B1%20%C3%A1n.md)
+> 3. [Dự án là gì.docx](/18.%20Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n/D%E1%BB%B1%20%C3%A1n%20l%C3%A0%20g%C3%AC.docx)
+> 4. [Dự án là gì.md](/18.%20Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n/D%E1%BB%B1%20%C3%A1n%20l%C3%A0%20g%C3%AC.md)
+> 5. [Kiểm soát rủi ro.docx](/18.%20Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n/Ki%E1%BB%83m%20so%C3%A1t%20r%E1%BB%A7i%20ro.docx)
+> 6. [Kiểm soát rủi ro.md](/18.%20Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n/Ki%E1%BB%83m%20so%C3%A1t%20r%E1%BB%A7i%20ro.md)
+> 7. [Lập kế hoạch dự án.docx](/18.%20Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n/L%E1%BA%ADp%20k%E1%BA%BF%20ho%E1%BA%A1ch%20d%E1%BB%B1%20%C3%A1n.docx)
+> 8. [Lập kế hoạch dự án.md](/18.%20Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n/L%E1%BA%ADp%20k%E1%BA%BF%20ho%E1%BA%A1ch%20d%E1%BB%B1%20%C3%A1n.md)
+> 9. [Lập tiến độ thực hiện.docx](/18.%20Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n/L%E1%BA%ADp%20ti%E1%BA%BFn%20%C4%91%E1%BB%99%20th%E1%BB%B1c%20hi%E1%BB%87n.docx)
+> 10. [Lập tiến độ thực hiện.md](/18.%20Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n/L%E1%BA%ADp%20ti%E1%BA%BFn%20%C4%91%E1%BB%99%20th%E1%BB%B1c%20hi%E1%BB%87n.md)
+> 11. [Phân bố lực lượng, tài nguyên.docx](/18.%20Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n/Ph%C3%A2n%20b%E1%BB%91%20l%E1%BB%B1c%20l%C6%B0%E1%BB%A3ng%2C%20t%C3%A0i%20nguy%C3%AAn.docx)
+> 12. [Phân bố lực lượng, tài nguyên.md](/18.%20Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n/Ph%C3%A2n%20b%E1%BB%91%20l%E1%BB%B1c%20l%C6%B0%E1%BB%A3ng%2C%20t%C3%A0i%20nguy%C3%AAn.md)
+> 13. [Quy trình quản lý dự án.docx](/18.%20Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n/Quy%20tr%C3%ACnh%20qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n.docx)
+> 14. [Quy trình quản lý dự án.md](/18.%20Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n/Quy%20tr%C3%ACnh%20qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n.md)
+> 15. [Quản lý dự án là gì.docx](/18.%20Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n%20l%C3%A0%20g%C3%AC.docx)
+> 16. [Quản lý dự án là gì.md](/18.%20Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n%20l%C3%A0%20g%C3%AC.md)
+> 17. [Quản lý phạm vi dự án.docx](/18.%20Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n/Qu%E1%BA%A3n%20l%C3%BD%20ph%E1%BA%A1m%20vi%20d%E1%BB%B1%20%C3%A1n.docx)
+> 18. [Quản lý phạm vi dự án.md](/18.%20Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n/Qu%E1%BA%A3n%20l%C3%BD%20ph%E1%BA%A1m%20vi%20d%E1%BB%B1%20%C3%A1n.md)
+> 19. [Quản lý thời gian dự án.docx](/18.%20Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n/Qu%E1%BA%A3n%20l%C3%BD%20th%E1%BB%9Di%20gian%20d%E1%BB%B1%20%C3%A1n.docx)
+> 20. [Quản lý thời gian dự án.md](/18.%20Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n/Qu%E1%BA%A3n%20l%C3%BD%20th%E1%BB%9Di%20gian%20d%E1%BB%B1%20%C3%A1n.md)
+> 21. [Quản lý tiến độ dự án.docx](/18.%20Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n/Qu%E1%BA%A3n%20l%C3%BD%20ti%E1%BA%BFn%20%C4%91%E1%BB%99%20d%E1%BB%B1%20%C3%A1n.docx)
+> 22. [Quản lý tiến độ dự án.md](/18.%20Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n/Qu%E1%BA%A3n%20l%C3%BD%20ti%E1%BA%BFn%20%C4%91%E1%BB%99%20d%E1%BB%B1%20%C3%A1n.md)
+> 23. [README.md](/18.%20Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n/README.md)
+> 24. [Xác định dự án.docx](/18.%20Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n/X%C3%A1c%20%C4%91%E1%BB%8Bnh%20d%E1%BB%B1%20%C3%A1n.docx)
+> 25. [Xác định dự án.md](/18.%20Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n/X%C3%A1c%20%C4%91%E1%BB%8Bnh%20d%E1%BB%B1%20%C3%A1n.md)
+> 26. [Ước lượng thời gian.docx](/18.%20Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n/%C6%AF%E1%BB%9Bc%20l%C6%B0%E1%BB%A3ng%20th%E1%BB%9Di%20gian.docx)
+> 27. [Ước lượng thời gian.md](/18.%20Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n/%C6%AF%E1%BB%9Bc%20l%C6%B0%E1%BB%A3ng%20th%E1%BB%9Di%20gian.md)
 ## Case Studies  
 ## Glossary  
 > [!note] Danh sách bài viết
-> 1. [Biến nhân khẩu.md](/Glossary/Bi%E1%BA%BFn%20nh%C3%A2n%20kh%E1%BA%A9u.md)
-> 2. [Biến phụ thuộc.md](/Glossary/Bi%E1%BA%BFn%20ph%E1%BB%A5%20thu%E1%BB%99c.md)
-> 3. [Biến trung gian.md](/Glossary/Bi%E1%BA%BFn%20trung%20gian.md)
-> 4. [Biến điều tiết.md](/Glossary/Bi%E1%BA%BFn%20%C4%91i%E1%BB%81u%20ti%E1%BA%BFt.md)
-> 5. [Biến độc lập.md](/Glossary/Bi%E1%BA%BFn%20%C4%91%E1%BB%99c%20l%E1%BA%ADp.md)
-> 6. [Brand Identity Design.md](/Glossary/Brand%20Identity%20Design.md)
-> 7. [Câu hỏi nghiên cứu.md](/Glossary/C%C3%A2u%20h%E1%BB%8Fi%20nghi%C3%AAn%20c%E1%BB%A9u.md)
-> 8. [Giá trị ngoại lệ (outliers) trong dữ liệu.md](/Glossary/Gi%C3%A1%20tr%E1%BB%8B%20ngo%E1%BA%A1i%20l%E1%BB%87%20%28outliers%29%20trong%20d%E1%BB%AF%20li%E1%BB%87u.md)
-> 9. [Giả thuyết nghiên cứu.md](/Glossary/Gi%E1%BA%A3%20thuy%E1%BA%BFt%20nghi%C3%AAn%20c%E1%BB%A9u.md)
-> 10. [Hệ số tương quan.md](/Glossary/H%E1%BB%87%20s%E1%BB%91%20t%C6%B0%C6%A1ng%20quan.md)
-> 11. [Kỳ vọng của một biến ngẫu nhiên.md](/Glossary/K%E1%BB%B3%20v%E1%BB%8Dng%20c%E1%BB%A7a%20m%E1%BB%99t%20bi%E1%BA%BFn%20ng%E1%BA%ABu%20nhi%C3%AAn.md)
-> 12. [Lettering & Type Design.md](/Glossary/Lettering%20%26%20Type%20Design.md)
-> 13. [MOI Model for leadership.md](/Glossary/MOI%20Model%20for%20leadership.md)
-> 14. [Marketing & Advertising Design.md](/Glossary/Marketing%20%26%20Advertising%20Design.md)
-> 15. [Mô hình Fogg.md](/Glossary/M%C3%B4%20h%C3%ACnh%20Fogg.md)
-> 16. [Mô hình dự đoán.md](/Glossary/M%C3%B4%20h%C3%ACnh%20d%E1%BB%B1%20%C4%91o%C3%A1n.md)
-> 17. [Mô hình hệ sinh thái.md](/Glossary/M%C3%B4%20h%C3%ACnh%20h%E1%BB%87%20sinh%20th%C3%A1i.md)
-> 18. [Mô hình phân tích thứ bậc.md](/Glossary/M%C3%B4%20h%C3%ACnh%20ph%C3%A2n%20t%C3%ADch%20th%E1%BB%A9%20b%E1%BA%ADc.md)
-> 19. [Mô hình tải nhận thức.md](/Glossary/M%C3%B4%20h%C3%ACnh%20t%E1%BA%A3i%20nh%E1%BA%ADn%20th%E1%BB%A9c.md)
-> 20. [Mẫu kiểm soát.md](/Glossary/M%E1%BA%ABu%20ki%E1%BB%83m%20so%C3%A1t.md)
-> 21. [Mẫu lựa chọn.md](/Glossary/M%E1%BA%ABu%20l%E1%BB%B1a%20ch%E1%BB%8Dn.md)
-> 22. [Mẫu theo phân bố nhánh.md](/Glossary/M%E1%BA%ABu%20theo%20ph%C3%A2n%20b%E1%BB%91%20nh%C3%A1nh.md)
-> 23. [Mẫu thuận tiện.md](/Glossary/M%E1%BA%ABu%20thu%E1%BA%ADn%20ti%E1%BB%87n.md)
-> 24. [Mỹ thuật (Fine Art).md](/Glossary/M%E1%BB%B9%20thu%E1%BA%ADt%20%28Fine%20Art%29.md)
-> 25. [Nghệ thuật ứng dụng (Applied Art).md](/Glossary/Ngh%E1%BB%87%20thu%E1%BA%ADt%20%E1%BB%A9ng%20d%E1%BB%A5ng%20%28Applied%20Art%29.md)
-> 26. [Packaging Design.md](/Glossary/Packaging%20Design.md)
-> 27. [Phương pháp lấy mẫu định lượng.md](/Glossary/Ph%C6%B0%C6%A1ng%20ph%C3%A1p%20l%E1%BA%A5y%20m%E1%BA%ABu%20%C4%91%E1%BB%8Bnh%20l%C6%B0%E1%BB%A3ng.md)
-> 28. [Phương sai.md](/Glossary/Ph%C6%B0%C6%A1ng%20sai.md)
-> 29. [Print & Publication Design.md](/Glossary/Print%20%26%20Publication%20Design.md)
-> 30. [Stakeholders.md](💀%20Stakeholders.md)
-> 31. [User Interface Design.md](/Glossary/User%20Interface%20Design.md)
-> 32. [Độ lệch chuẩn.md](/Glossary/%C4%90%E1%BB%99%20l%E1%BB%87ch%20chu%E1%BA%A9n.md)
+> 1. [Agenda.md](/Glossary/Agenda.md)
+> 2. [Biến nhân khẩu.md](/Glossary/Bi%E1%BA%BFn%20nh%C3%A2n%20kh%E1%BA%A9u.md)
+> 3. [Biến phụ thuộc.md](/Glossary/Bi%E1%BA%BFn%20ph%E1%BB%A5%20thu%E1%BB%99c.md)
+> 4. [Biến trung gian.md](/Glossary/Bi%E1%BA%BFn%20trung%20gian.md)
+> 5. [Biến điều tiết.md](/Glossary/Bi%E1%BA%BFn%20%C4%91i%E1%BB%81u%20ti%E1%BA%BFt.md)
+> 6. [Biến độc lập.md](/Glossary/Bi%E1%BA%BFn%20%C4%91%E1%BB%99c%20l%E1%BA%ADp.md)
+> 7. [Brand Identity Design.md](/Glossary/Brand%20Identity%20Design.md)
+> 8. [Câu hỏi nghiên cứu.md](/Glossary/C%C3%A2u%20h%E1%BB%8Fi%20nghi%C3%AAn%20c%E1%BB%A9u.md)
+> 9. [Gantt chart.docx](/Glossary/Gantt%20chart.docx)
+> 10. [Giá trị ngoại lệ (outliers) trong dữ liệu.md](/Glossary/Gi%C3%A1%20tr%E1%BB%8B%20ngo%E1%BA%A1i%20l%E1%BB%87%20%28outliers%29%20trong%20d%E1%BB%AF%20li%E1%BB%87u.md)
+> 11. [Giả thuyết nghiên cứu.md](/Glossary/Gi%E1%BA%A3%20thuy%E1%BA%BFt%20nghi%C3%AAn%20c%E1%BB%A9u.md)
+> 12. [Hệ số tương quan.md](/Glossary/H%E1%BB%87%20s%E1%BB%91%20t%C6%B0%C6%A1ng%20quan.md)
+> 13. [Kỳ vọng của một biến ngẫu nhiên.md](/Glossary/K%E1%BB%B3%20v%E1%BB%8Dng%20c%E1%BB%A7a%20m%E1%BB%99t%20bi%E1%BA%BFn%20ng%E1%BA%ABu%20nhi%C3%AAn.md)
+> 14. [Lettering & Type Design.md](/Glossary/Lettering%20%26%20Type%20Design.md)
+> 15. [MOI Model for leadership.md](/Glossary/MOI%20Model%20for%20leadership.md)
+> 16. [Marketing & Advertising Design.md](/Glossary/Marketing%20%26%20Advertising%20Design.md)
+> 17. [Mô hình Fogg.md](/Glossary/M%C3%B4%20h%C3%ACnh%20Fogg.md)
+> 18. [Mô hình dự đoán.md](/Glossary/M%C3%B4%20h%C3%ACnh%20d%E1%BB%B1%20%C4%91o%C3%A1n.md)
+> 19. [Mô hình hệ sinh thái.md](/Glossary/M%C3%B4%20h%C3%ACnh%20h%E1%BB%87%20sinh%20th%C3%A1i.md)
+> 20. [Mô hình phân tích thứ bậc.md](/Glossary/M%C3%B4%20h%C3%ACnh%20ph%C3%A2n%20t%C3%ADch%20th%E1%BB%A9%20b%E1%BA%ADc.md)
+> 21. [Mô hình tải nhận thức.md](/Glossary/M%C3%B4%20h%C3%ACnh%20t%E1%BA%A3i%20nh%E1%BA%ADn%20th%E1%BB%A9c.md)
+> 22. [Mẫu kiểm soát.md](/Glossary/M%E1%BA%ABu%20ki%E1%BB%83m%20so%C3%A1t.md)
+> 23. [Mẫu lựa chọn.md](/Glossary/M%E1%BA%ABu%20l%E1%BB%B1a%20ch%E1%BB%8Dn.md)
+> 24. [Mẫu theo phân bố nhánh.md](/Glossary/M%E1%BA%ABu%20theo%20ph%C3%A2n%20b%E1%BB%91%20nh%C3%A1nh.md)
+> 25. [Mẫu thuận tiện.md](/Glossary/M%E1%BA%ABu%20thu%E1%BA%ADn%20ti%E1%BB%87n.md)
+> 26. [Mỹ thuật (Fine Art).md](/Glossary/M%E1%BB%B9%20thu%E1%BA%ADt%20%28Fine%20Art%29.md)
+> 27. [Nghệ thuật ứng dụng (Applied Art).md](/Glossary/Ngh%E1%BB%87%20thu%E1%BA%ADt%20%E1%BB%A9ng%20d%E1%BB%A5ng%20%28Applied%20Art%29.md)
+> 28. [Packaging Design.md](/Glossary/Packaging%20Design.md)
+> 29. [Phương pháp lấy mẫu định lượng.md](/Glossary/Ph%C6%B0%C6%A1ng%20ph%C3%A1p%20l%E1%BA%A5y%20m%E1%BA%ABu%20%C4%91%E1%BB%8Bnh%20l%C6%B0%E1%BB%A3ng.md)
+> 30. [Phương sai.md](/Glossary/Ph%C6%B0%C6%A1ng%20sai.md)
+> 31. [Print & Publication Design.md](/Glossary/Print%20%26%20Publication%20Design.md)
+> 32. [Sơ đồ PERT.docx](/Glossary/S%C6%A1%20%C4%91%E1%BB%93%20PERT.docx)
+> 33. [User Interface Design.md](/Glossary/User%20Interface%20Design.md)
+> 34. [Work Breakdown Structure.docx](/Glossary/Work%20Breakdown%20Structure.docx)
+> 35. [Độ lệch chuẩn.md](/Glossary/%C4%90%E1%BB%99%20l%E1%BB%87ch%20chu%E1%BA%A9n.md)
+> 36. [💀 Stakeholders.md](/Glossary/%F0%9F%92%80%20Stakeholders.md)
 ## [Key note.md](/Key%20note.md)
 ## Personal Note  
 #### Application Setup  
 > [!note] Danh sách bài viết
-> 1. [Helpful links.md](/Personal%20Note/Helpful%20links.md)
-> 2. [Toolsheet.md](/Personal%20Note/Toolsheet.md)
+> 1. [Freelancer grow up.md](/Personal%20Note/Freelancer%20grow%20up.md)
+> 2. [Helpful links.md](/Personal%20Note/Helpful%20links.md)
+> 3. [Toolsheet.md](/Personal%20Note/Toolsheet.md)
 ## Question Hub  
 ## [README.md](/README.md)
 ## [outlinecreate.py](/outlinecreate.py)
