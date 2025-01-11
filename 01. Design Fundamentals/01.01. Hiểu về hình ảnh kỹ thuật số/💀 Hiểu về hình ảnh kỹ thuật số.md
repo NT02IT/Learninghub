@@ -112,28 +112,6 @@ Các hình ảnh ảnh raster thường có các định dạng sau: PDF, EPS,AI
 | Định dạng phổ biến  | .AI, .CDR, .DAE, .EMF, .SVG, .EPS, .PDF,...                                                      | .BMP, .GIF, .JPEG, .PNG và .TIFF, .RAW, .PSD, .EPS, .PDF,...                                                                                                                              |
 | Phần mềm chỉnh sửa  | Adobe Illustrator, CorelDraw, InkScape,...                                                       | Adobe Photoshop, GIMP, Adobe Lightroom, Corel PaintShop Pro,...                                                                                                                           |
 
-## Kích thước ảnh hoạt động ra sao trên màn hình
-
-Kích thước của ảnh rất quan trọng vì nó quyết định những gì chúng ta có thể làm với ảnh khi ở trên máy tính. Một ảnh rất nhỏ sẽ chỉ đẹp trên màn hình, và sẽ không đẹp nếu in ra. Kích thước của ảnh được đo bằng:
-1. **MB (megabytes)**, nó chiếm bao nhiêu dung lượng trên bộ nhớ máy tính
-2. **[[Point vs Pixel|Pixel]]**, hoặc **yếu tố hình ảnh (picture elements)**, là bao nhiêu chấm vuông nhỏ tạo nên ảnh, cho biết độ chi tiết của ảnh.
-
-#NotComplete 
-
-## Kích thước của ảnh hoạt động như thế nào khi in ra
-
-Các máy in có hệ thống ấn định kích thước ảnh khác nhau khi in ra. Ảnh có thuộc tính gọi là **[[DPI vs PPI|DPI]]**, viết tắt của **chấm trên in (dots per inch)**. Nó đơn giản có nghĩa là có bao nhiêu chấm mực xuất hiện trên một đường thẳng dài một in. Hầu hết ảnh chụp trên điện thoại thông minh đều có 120 DPI, và ảnh chụp từ máy ảnh kỹ thuật số cao cấp sẽ có 300 DPI.
-
-Khi một DPI cao được kết hợp với số lượng pixel cao, có nghĩa là ảnh có thể in ra rất lớn và với chất lượng cao. DPI thấp sẽ không làm cho ảnh nhỏ hơn khi in ra, chỉ là chất lượng thấp hơn.
-
-## Ảnh đã chỉnh sửa có thể giảm chất lượng
-
-Nếu thay đổi kích thước một tấm ảnh, sau đó lưu nó ở định dạng JPG, sau đó chỉnh sửa lại tấm ảnh mới, lần sau khi lưu, nó có thể trông thậm chí còn tệ hơn. 
-
-> Nếu đã chỉnh sửa ảnh và không thích kết quả, tốt nhất nên quay lại ảnh gốc để làm lại, tránh làm mất chất lượng hơn nữa.
-
-Sử dụng định dạng tệp BMP sẽ giúp tránh giảm chất lượng. Cách này chiếm nhiều dung lượng nhất trên máy tính, nhưng khi chỉnh sửa xong, có thể lưu kết quả cuối cùng dưới dạng JPG để chia sẻ qua email hoặc truyền thông xã hội.
-
 ## Tại sao các thiết bị cũ chụp ảnh kém hơn
 
 Chất lượng ban đầu của một tấm ảnh kỹ thuật số phụ thuộc vào máy móc, hay phần cứng, trong máy ảnh hoặc thiết bị chụp nó. Cảm biến của máy ảnh có một số pixel, thể hiện tấm ảnh lớn nhất mà máy ảnh có thể chụp. Ống kính máy ảnh quyết định chất lượng của bức ảnh. Máy ảnh cũ có cảm biến nhỏ hơn với ít pixel hơn, và một số có ống kính kém hơn.
