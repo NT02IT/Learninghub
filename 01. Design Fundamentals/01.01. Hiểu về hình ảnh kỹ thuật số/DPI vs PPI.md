@@ -9,12 +9,16 @@ tags:
   - DPI
   - PPI
   - Compare
+aliases:
+  - DPI
+  - PPI
 ---
 Khi nói đến in qua máy in laser, DPI là một phép đo quan trọng để mô tả mật độ của các chấm (dot) hiển thị trên trang in. Dots không nhất thiết phải tròn và chúng có thể chồng lên nhau, tạo ra hiệu ứng bão hòa. Mặt khác, pixel hoàn toàn không chồng chéo.
 
 (Trước thời kỳ máy tính và thậm chí ngày nay trong việc sử dụng in offset, thuật ngữ được sử dụng để chỉ việc in ấn là lines per inch (LPI), đề cập đến số dòng halftone, được tạo thành từ một lưới các dots, nằm trong một inch không gian. Thông thường, đối với các ấn phẩm như tạp chí, chúng sẽ có tỷ lệ 2:1 giữa line và dot, vì vậy một tạp chí in ở 300dpi sẽ in ở khoảng 150lpi.)
 
-![[Pasted image 20241212032250.png]]
+![](https://img.playbook.com/zbZInFZbdURIkDt62F_Kxk4bwUqRtTtwJACCr5ivKKU/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzk1YjhmZmRj/LWE3YmItNGM2NC04/NDk1LWIzODJjMmI2/ZjZiNQ)
+
 Ảnh chụp màn hình của Mario, như được hiển thị trong bản mashup Sonic the Hedgehog vi phạm bản quyền Somari. Như bạn thấy, các pixel không chồng lên nhau!
 
 Nhưng vấn đề là khi bạn chuyển những chấm đó sang màn hình LCD, thuật ngữ sẽ thay đổi. Độ phân giải lúc này đề cập đến mật độ của picture element (pixel) trên màn hình. Độ phân giải dots-per-inch (DPI) của một hình ảnh có thể khớp với độ phân giải pixels-per-inch (PPI) của màn hình, nhưng chúng không đề cập đến cùng một khái niệm. Dot (chấm) về cơ bản đề cập đến mật độ mực in, trong khi pixel đề cập đến mật độ hình ảnh trên màn hình. 
@@ -33,7 +37,8 @@ Microsoft, với cách tiếp cận riêng của mình, lại có suy nghĩ khá
 <center>Mac 72ppi => 1pt = 1/72 inch = 1px</center>
 <center>Win 96ppi => 1pt = 1/72 inch = 96/72 >1px</center>
 
-![[Pasted image 20241212034418.png]]
+![](https://img.playbook.com/Kz3EhX7IF9B1Nfs-EqvPFL82yW999wIW_kwmDi1Edog/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzM5YjE3ZDli/LTk4OTctNGRiMi1i/MjhlLTNiZjUwZWVj/NjBhYg)
+
 Cuối cùng Microsoft đã cho phép người dùng tự thay đổi cài đặt DPI.
 
 Mặc dù độ phân giải ngày càng tăng đã thay đổi tình trạng này theo thời gian, nhưng nó không làm giảm bớt sự nhầm lẫn xung quanh thuật ngữ DPI, vốn thường bị sử dụng sai khi nói về mật độ pixel. *Thêm vào đó là sự nhầm lẫn do Photoshop gây ra, vì phần mềm này làm việc với DPI, mặc dù thực tế bạn đang thao tác với pixel.* Tuy nhiên, nếu bạn dự định in ấn, thì DPI lại trở nên quan trọng hơn.
@@ -78,11 +83,11 @@ Mặc định, nên tránh **Resampling** nếu có thể, vì bạn có thể m
 
 Panel Image Size trong Photoshop điều khiển cả việc thay đổi kích thước  (resizing) và thay đổi mẫu (resampling) của hình ảnh.
 
-![[Pasted image 20241212045237.png]]
+![](https://img.playbook.com/H7XDDZwjZWIlOY7Z2DZhLCVwcLuc6pHoFKR__lJnREQ/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzhkNmU5OTU5/LWMzZjktNDNlNy1i/NWVlLWU0ZDYyN2Q0/NzM2MA)
 
 Hộp kiểm "Resample" thay đổi số lượng pixel trong một inch tuyến tính—tức là số pixel trên mỗi inch. Nếu bạn tắt resampling, Photoshop chỉ làm duy nhất một việc để thay đổi kích thước hình ảnh là phóng to các pixel để in ra.
 
-![[Pasted image 20241212045416.png]]
+![](https://img.playbook.com/HBtipe5-Cl229-uKaXuTH2BtzK5MrC-GfXZNuo3lzdQ/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2Q1NDAzZmY4/LWEzM2QtNGFhYy1h/ZTRlLTdjMjU4YTgz/MWQxNQ)
 
 Khi hộp kiểm resampling không được đánh dấu, việc thay đổi hộp "resolution" sẽ thay đổi kích thước vật lý của hình ảnh khi in ra, nhưng không làm thay đổi số lượng pixel trong hình ảnh. Khi in, hình ảnh sẽ xuất hiện lớn hơn hoặc nhỏ hơn tùy thuộc vào độ phân giải được đặt. Tuy nhiên, trên một trang web, hình ảnh sẽ vẫn giữ nguyên kích thước vì web chỉ quan tâm đến số lượng pixel của hình ảnh, không phải độ phân giải khi in ra.
 ### Bạn càng ở gần một thứ gì đó, bạn sẽ cần mật độ pixel hoặc chấm càng cao
@@ -100,6 +105,8 @@ Mặt khác, một tờ glossy magazine chất lượng cao sẽ thường in v�
 **Còn khi nói đến biển quảng cáo (billboards):**
 Bạn đã bao giờ nhìn gần một biển quảng cáo chưa? Dĩ nhiên là bạn chưa — thường thì chúng cách bạn hàng trăm feet, xa tầm mắt của bạn khi di chuyển nhanh. Và điều đó có nghĩa là độ phân giải cần thiết để in biển quảng cáo thực tế là khá khiêm tốn.
 
+![](https://i.imgur.com/49Pmk8a.png)
+
 Clear Channel Advertising cho biết, đối với mỗi ô vuông rộng nửa inch trong các tệp số của một biển quảng cáo in ấn, nó sẽ được in ra với kích thước 1 foot vuông (144 inch² ~ 12x12inch), tức gấp 24 lần.
 
 Với tỷ lệ này, một thiết kế 7x24 inch sẽ phù hợp với biển quảng cáo 168x576 inch. Nếu thiết kế rộng 24 inch này được gửi đến Clear Channel với độ phân giải 300dpi, điều đó có nghĩa là thiết kế bạn thấy trên biển quảng cáo thực tế sẽ chỉ hiển thị với độ phân giải 12.5dpi (300dpi/24) — mặc dù bạn sẽ không nhận ra điều đó, vì bạn sẽ nhìn từ cách xa hàng trăm feet.
@@ -114,7 +121,7 @@ DPI không ảnh hưởng đến cách hiển thị hình ảnh trên màn hình
 
 Màn hình có PPI cao hơn rất dễ đọc. Nhiều pixel trên mỗi inch làm cho các mẫu chữ dễ đọc hơn vì sắc nét hơn. Nó cũng có nghĩa là hình ảnh và văn bản phải lớn hơn (tính bằng pixel) để có thể đọc được.
 
-![[Pasted image 20241212064626.png]]
+![](https://img.playbook.com/G3HABugCQVkJYk4IlVHjXS8hn-dqWKSbA4xzdLPcPYE/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzY2YzBiZjFh/LTM1ZTgtNDFlZS04/MjYzLTY1YTYxOWYz/MDJmOQ)
 
 Nếu bạn cầm một chiếc thước đo màn hình, bạn sẽ thấy rằng kích thước của biểu tượng và cửa sổ có tỷ lệ nghịch với số lượng pixel hiển thị. Nhiều pixel hơn có nghĩa là biểu tượng nhỏ hơn; ít pixel hơn có nghĩa là biểu tượng lớn hơn. Nhiều pixel trên cùng một màn hình sẽ cung cấp mật độ pixel cao hơn; ít pixel hơn có mật độ thấp hơn.
 

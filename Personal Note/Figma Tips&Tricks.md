@@ -7,24 +7,25 @@ tags:
   - UI/UX
 version: v1.0.1
 last modified: 2025-01-03T11:53:00
+not complete: true
 ---
 ## Changelog
 
 ### Version 1.0.0
 
-#Add 020125: I. Shortcut hay sử dụng *(Windows)*
-#Add 020125: II. Các tips khi sử dụng Figma
+- #Add 020125: I. Shortcut hay sử dụng *(Windows)*
+- #Add 020125: II. Các tips khi sử dụng Figma
 
 ### Version 1.0.1
 
-#Add 030125: I. Shortcut hay sử dụng *(MacOs)*
-#Add 030125: 2.7. Export & Handoff
-#Update 030125: Thay đổi lại thứ tự các tips và phân catagory lại cho hợp lý hơn
-#Add 030125: Thêm Mục lục
+- #Add 030125: I. Shortcut hay sử dụng *(MacOs)*
+- #Add 030125: 2.7. Export & Handoff
+- #Update 030125: Thay đổi lại thứ tự các tips và phân catagory lại cho hợp lý hơn
+- #Add 030125: Thêm Mục lục
 
 ### Version 1.1.0
 
-#Add *(comming soon)*: III. Tổng hợp các plugin hữu ích
+- #Add *(comming soon)*: III. Tổng hợp các plugin hữu ích
 
 ---
 

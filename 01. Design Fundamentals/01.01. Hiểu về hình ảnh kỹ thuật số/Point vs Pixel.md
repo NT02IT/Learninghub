@@ -27,7 +27,7 @@ Tìm hiểu thêm: [What is the Shape of a Pixel?](https://blogs.mathworks.com/s
 
 Trong bất kỳ ứng dụng nào, 1 point chính xác bằng 1/72 inch. Chúng ta hãy so sánh nó với Pixel, các pixel của một điểm phụ thuộc vào độ phân giải của hình ảnh của bạn. Ví dụ, nếu độ phân giải của hình ảnh của bạn là 72 pixel/inch (ppi) thì 1 point bằng 1 Pixel.
 
-![[Pasted image 20241211143620.png]]
+![](https://img.playbook.com/fJ7D6RdeqZkwKl7h7fb8JkwWC2q_suKeShh2DcFlShI/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzY2Yjg2OTRl/LTUxMmUtNDhkYi04/NTg5LTU4YWJiOTVh/ZjBmMQ)
 
 ## Vậy màn hình thông thường so với màn hình retina và màn hình siêu retina hoạt động như thế nào?
 
@@ -37,13 +37,13 @@ Khi Steve Jobs ra mắt iPhone 4, và cùng với đó là màn hình Retina đ�
 
 Bởi vì có hai yếu tố quan trọng quyết định xem điểm ảnh có thể nhận biết được hay không: **mật độ** và **khoảng cách**. Mắt bạn càng xa màn hình thì mật độ điểm ảnh cần thiết để khiến các điểm ảnh 'biến mất' càng thấp. Nói chung, màn hình càng lớn thì mắt bạn càng có khả năng cách xa màn hình và do đó mật độ điểm ảnh cần thiết để 'đủ điều kiện' là màn hình Retina càng thấp.
 
-![[Pasted image 20241211143927.png]]
+![](https://img.playbook.com/sbAaI3FAauiYwQBCOCv0Nu2dQ_gFsSu82x8och8yAZw/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzJkYTgyZDI5/LWQzOGQtNGZiYi04/MjhlLTQ5Mjg1MTli/MDg0Yw)
 
 Ví dụ, iPhone 4, 5, 6, 7 và 8 đều có màn hình với mật độ điểm ảnh là 326ppi, trong khi các phiên bản Plus có mật độ cao hơn là 401ppi. iPhone X, XS và XS Max có mật độ điểm ảnh là 458ppi.
 
 Tuy nhiên, hãy nhìn vào MacBook Pro 13in, màn hình của nó chỉ có mật độ 227ppi. Nhưng nó đủ điều kiện là Retina vì bạn ngồi xa màn hình máy tính xách tay hơn.
 
-![[Pasted image 20241211144048.png]]
+![](https://img.playbook.com/vw9RDDr5OE7gfm7CTTXO_6kvVES5BIdJxA2mX-V1m60/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2JkZjQwMmRk/LTBjMjItNDFhZS1h/NWFhLWM2ZWJiNTIx/NDc3Mg)
 
 ## [[Key note]]
 - Pixel là phần tử nhỏ nhất trong hình ảnh điện tử; Point là một đơn vị đo chiều dài, 1 point chính xác bằng 1/72 inch. ⇒ Ở độ phân giải 72ppi thì 1pt=1px

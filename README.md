@@ -3,8 +3,10 @@
 ## 01. Design Fundamentals  
 #### 01.01. Hiểu về thông số hình ảnh  
 > [!note] Danh sách bài viết
-> 1. [DPI vs PPI.md](/01.%20Design%20Fundamentals/01.01.%20Hi%E1%BB%83u%20v%E1%BB%81%20th%C3%B4ng%20s%E1%BB%91%20h%C3%ACnh%20%E1%BA%A3nh/DPI%20vs%20PPI.md)
-> 2. [Point vs Pixel.md](/01.%20Design%20Fundamentals/01.01.%20Hi%E1%BB%83u%20v%E1%BB%81%20th%C3%B4ng%20s%E1%BB%91%20h%C3%ACnh%20%E1%BA%A3nh/Point%20vs%20Pixel.md)
+> 1. [DPI vs PPI.md](DPI%20vs%20PPI.md)
+> 2. [DPI vs PPI.pdf](DPI%20vs%20PPI.pdf)
+> 3. [Point vs Pixel.md](Point%20vs%20Pixel.md)
+> 4. [Point vs Pixel.pdf](Point%20vs%20Pixel.pdf)
 #### 01.02. Các yếu tố thị giác (Visual Elements)  
 #### 01.03. Theory & Principles  
 #### 01.04. Design History  
@@ -107,14 +109,32 @@
 > 1. [Work Breakdown Structure.md](/15.%20Communicate/Template/Work%20Breakdown%20Structure.md)
 #### UML  
 ## 16. Algorithm  
-## 17. Software Enginerring  
+## 17. Software Engineering  
 #### 17.1. Tổng quan Công nghệ phần mềm  
-#### 17.2. Quản lý Dự án phần mềm  
-#### 17.3. Các mô hình phát triển phần mềm  
-#### 17.4. Phân tích hệ thống (System Analysis)  
-#### 17.5. Thiết kế phần mềm  
-#### 17.6. Phát triển phần mềm  
-#### 17.7. Kiểm thử phần mềm  
+#### 17.2. Các mô hình phát triển phần mềm  
+#### 17.3. Phân tích hệ thống (System Analysis)  
+#### 17.4. Thiết kế phần mềm  
+#### 17.5. Phát triển phần mềm  
+###### DevOps  
+######## Docker  
+> [!note] Danh sách bài viết
+> 1. [Các câu lệnh hữu dụng trong Docker.md](/17.%20Software%20Engineering/17.5.%20Ph%C3%A1t%20tri%E1%BB%83n%20ph%E1%BA%A7n%20m%E1%BB%81m/DevOps/Docker/C%C3%A1c%20c%C3%A2u%20l%E1%BB%87nh%20h%E1%BB%AFu%20d%E1%BB%A5ng%20trong%20Docker.md)
+> 2. [Các khái niệm trong Docker.md](/17.%20Software%20Engineering/17.5.%20Ph%C3%A1t%20tri%E1%BB%83n%20ph%E1%BA%A7n%20m%E1%BB%81m/DevOps/Docker/C%C3%A1c%20kh%C3%A1i%20ni%E1%BB%87m%20trong%20Docker.md)
+> 3. [Làm việc với Docker Image.md](/17.%20Software%20Engineering/17.5.%20Ph%C3%A1t%20tri%E1%BB%83n%20ph%E1%BA%A7n%20m%E1%BB%81m/DevOps/Docker/L%C3%A0m%20vi%E1%BB%87c%20v%E1%BB%9Bi%20Docker%20Image.md)
+> 4. [README.md](/17.%20Software%20Engineering/17.5.%20Ph%C3%A1t%20tri%E1%BB%83n%20ph%E1%BA%A7n%20m%E1%BB%81m/DevOps/Docker/README.md)
+###### Framework  
+######## Java Spring  
+########## 1. Tổng quan về Spring  
+> [!note] Danh sách bài viết
+> 1. [Chạy chương trình Spring đầu tiên.md](/17.%20Software%20Engineering/17.5.%20Ph%C3%A1t%20tri%E1%BB%83n%20ph%E1%BA%A7n%20m%E1%BB%81m/Framework/Java%20Spring/1.%20T%E1%BB%95ng%20quan%20v%E1%BB%81%20Spring/Ch%E1%BA%A1y%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20Spring%20%C4%91%E1%BA%A7u%20ti%C3%AAn.md)
+> 2. [Cách hoạt động của Spring MVC.md](/17.%20Software%20Engineering/17.5.%20Ph%C3%A1t%20tri%E1%BB%83n%20ph%E1%BA%A7n%20m%E1%BB%81m/Framework/Java%20Spring/1.%20T%E1%BB%95ng%20quan%20v%E1%BB%81%20Spring/C%C3%A1ch%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20c%E1%BB%A7a%20Spring%20MVC.md)
+> 3. [Kiến trúc và Module của Spring.md](/17.%20Software%20Engineering/17.5.%20Ph%C3%A1t%20tri%E1%BB%83n%20ph%E1%BA%A7n%20m%E1%BB%81m/Framework/Java%20Spring/1.%20T%E1%BB%95ng%20quan%20v%E1%BB%81%20Spring/Ki%E1%BA%BFn%20tr%C3%BAc%20v%C3%A0%20Module%20c%E1%BB%A7a%20Spring.md)
+########## 2. Các khái niệm cơ bản về Spring  
+> [!note] Danh sách bài viết
+> 1. [Khái niệm tight-coupling và cách loosely coupled.md](/17.%20Software%20Engineering/17.5.%20Ph%C3%A1t%20tri%E1%BB%83n%20ph%E1%BA%A7n%20m%E1%BB%81m/Framework/Java%20Spring/2.%20C%C3%A1c%20kh%C3%A1i%20ni%E1%BB%87m%20c%C6%A1%20b%E1%BA%A3n%20v%E1%BB%81%20Spring/Kh%C3%A1i%20ni%E1%BB%87m%20tight-coupling%20v%C3%A0%20c%C3%A1ch%20loosely%20coupled.md)
+> [!note] Danh sách bài viết
+> 1. [README.md](/17.%20Software%20Engineering/17.5.%20Ph%C3%A1t%20tri%E1%BB%83n%20ph%E1%BA%A7n%20m%E1%BB%81m/Framework/Java%20Spring/README.md)
+#### 17.6. Kiểm thử phần mềm  
 ## 18. Quản lý dự án  
 > [!note] Danh sách bài viết
 > 1. [Dự toán ngân sách dự án.docx](/18.%20Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n/D%E1%BB%B1%20to%C3%A1n%20ng%C3%A2n%20s%C3%A1ch%20d%E1%BB%B1%20%C3%A1n.docx)
@@ -154,7 +174,7 @@
 > 5. [Biến điều tiết.md](/Glossary/Bi%E1%BA%BFn%20%C4%91i%E1%BB%81u%20ti%E1%BA%BFt.md)
 > 6. [Biến độc lập.md](/Glossary/Bi%E1%BA%BFn%20%C4%91%E1%BB%99c%20l%E1%BA%ADp.md)
 > 7. [Brand Identity Design.md](/Glossary/Brand%20Identity%20Design.md)
-> 8. [Câu hỏi nghiên cứu.md](/Glossary/C%C3%A2u%20h%E1%BB%8Fi%20nghi%C3%AAn%20c%E1%BB%A9u.md)
+> 8. [Câu hỏi nghiên cứu.md](💀%20Câu%20hỏi%20nghiên%20cứu.md)
 > 9. [Gantt chart.docx](/Glossary/Gantt%20chart.docx)
 > 10. [Giá trị ngoại lệ (outliers) trong dữ liệu.md](/Glossary/Gi%C3%A1%20tr%E1%BB%8B%20ngo%E1%BA%A1i%20l%E1%BB%87%20%28outliers%29%20trong%20d%E1%BB%AF%20li%E1%BB%87u.md)
 > 11. [Giả thuyết nghiên cứu.md](/Glossary/Gi%E1%BA%A3%20thuy%E1%BA%BFt%20nghi%C3%AAn%20c%E1%BB%A9u.md)
@@ -187,9 +207,11 @@
 ## Personal Note  
 #### Application Setup  
 > [!note] Danh sách bài viết
-> 1. [Freelancer grow up.md](/Personal%20Note/Freelancer%20grow%20up.md)
-> 2. [Helpful links.md](/Personal%20Note/Helpful%20links.md)
-> 3. [Toolsheet.md](/Personal%20Note/Toolsheet.md)
+> 1. [Figma Tips&Tricks v1.0.1.pdf](/Personal%20Note/Figma%20Tips%26Tricks%20v1.0.1.pdf)
+> 2. [Figma Tips&Tricks.md](/Personal%20Note/Figma%20Tips%26Tricks.md)
+> 3. [Freelancer grow up.md](/Personal%20Note/Freelancer%20grow%20up.md)
+> 4. [Helpful links.md](/Personal%20Note/Helpful%20links.md)
+> 5. [Toolsheet.md](/Personal%20Note/Toolsheet.md)
 ## Question Hub  
 ## [README.md](/README.md)
 ## [outlinecreate.py](/outlinecreate.py)

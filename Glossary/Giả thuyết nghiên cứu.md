@@ -7,7 +7,7 @@ tags:
 ---
 ## Khái niệm
 
-Giả thuyết nghiên cứu là **các phán đoán giả định** cho [[Câu hỏi nghiên cứu]]. Giả thuyết nghiên cứu không nhất thiết phải chính xác. Giả thuyết nghiên cứu phù hợp hay không phù hợp sẽ được chứng minh thông qua quá trình phân tích khoa học.
+Giả thuyết nghiên cứu là **các phán đoán giả định** cho [[💀 Câu hỏi nghiên cứu]]. Giả thuyết nghiên cứu không nhất thiết phải chính xác. Giả thuyết nghiên cứu phù hợp hay không phù hợp sẽ được chứng minh thông qua quá trình phân tích khoa học.
 
 Việc đặt ra giả thuyết nghiên cứu sẽ giúp dự án nghiên cứu có tầm nhìn về bản chất, tính quy luật của vấn đề đang được nghiên cứu, tiên đoán kết quả, đồng thời hỗ trợ xây dựng khung nghiên cứu phù hợp. Không chỉ vậy, nó còn giúp nghiên cứu đúng trọng tâm, đảm bảo tính khách quan. Dựa vào giả thuyết nghiên cứu, người thực hiện nghiên cứu có thể biết cần lựa chọn hay không cần lựa chọn những dữ liệu nào.
 

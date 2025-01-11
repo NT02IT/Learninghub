@@ -8,7 +8,7 @@ tags:
 ---
 ## Khái niệm
 
-Mô hình dự đoán không xuất phát từ học thuyết hay một mô hình từ một nhà nghiên cứu nào mà mô hình dự đoán hành vi bắt nguồn từ việc xây dựng cấu trúc tương tác giữa các [[Biến độc lập]], [[Biến phụ thuộc]], [[Biến điều tiết]], [[Biến trung gian]] và [[Biến nhân khẩu]] một cách logic và kỹ lưỡng. Sau đó xây dựng bảng [[Câu hỏi nghiên cứu]], survey hoặc câu hỏi phỏng vấn sâu hiệu quả và đầy đủ nội dung.
+Mô hình dự đoán không xuất phát từ học thuyết hay một mô hình từ một nhà nghiên cứu nào mà mô hình dự đoán hành vi bắt nguồn từ việc xây dựng cấu trúc tương tác giữa các [[Biến độc lập]], [[Biến phụ thuộc]], [[Biến điều tiết]], [[Biến trung gian]] và [[Biến nhân khẩu]] một cách logic và kỹ lưỡng. Sau đó xây dựng bảng [[💀 Câu hỏi nghiên cứu]], survey hoặc câu hỏi phỏng vấn sâu hiệu quả và đầy đủ nội dung.
 
 Cuối cùng, sử dụng phương pháp xử lý số liệu tương quan, hồi quy đơn/đa biến để xác định các mối quan hệ giữa các biến với nhau. Ưu điểm của mô hình dự đoán trong nghiên cứu khoa học nằm ở việc nhà nghiên cứu có thể giải thích và đánh giá được mối quan hệ của các thành tố mà khó có thể lý giải bằng định lượng.
 

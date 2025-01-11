@@ -4,12 +4,12 @@ tags:
   - Tool
 ---
 
-| STT | Name               | Features                                                                                                                        |
-| --- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Google Apps Script | #GoogleWorkspace #CreateExtension #Automation                                                                                   |
-| 2   | Google Firebase    | #Database #Hosting #RealtimeDatabase #Authencation #CloudStorage #Notification #Analytics #Crashlytics #RemoteConfig #ABTesting |
-| 3   | Google Tag Manager | #TagManager #TriggerManager                                                                                                     |
-| 4   | Google Analytics   | #Tracking #Report                                                                                                               |
-| 5   | Google Colab       | #Notebook #Python #DataAnalysis #MachineLearning #DataVisualize                                                                 |
-| 6   | Google NotebookLM  | #AI #GenAI #PDF #AIAssistant                                                                                                    |
-| 7   | Airtable           | #Database #TableData #MockData #API #Report #DataVisualize                                                                      |
+| STT | Name               | Features                                                                  |
+| --- | ------------------ | ------------------------------------------------------------------------ |
+| 1   | Google Apps Script | #GoogleWorkspace #CreateExtension #Automati                               |
+| 2   | Google Firebase   #ABTesting #Analytics #RealtimeDatabase #Database #CloudStorage #Hosting ge  |
+| 3   | Google Tag Manager | #TagManager #TriggerMan                                                   |
+| 4   | Google Analytics   | #Tracking #R                                                              |
+| 5   | Google Colab       | #Notebook #Python #DataAnalysis #MachineLearning #DataVis          alize  |
+| 6   | Google NotebookLM  | #AI #GenAI #PDF #AIAs                                                     |
+| 7   | Airtable           | #Database #TableData #MockData #API #Report #DataV               ze       |
