@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Lossy
+  - Lossless
 created: 2025-01-11T19:25:00
 tags:
   - Design

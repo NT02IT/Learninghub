@@ -7,7 +7,7 @@ tags:
 ---
 ## Hiểu về hình ảnh kỹ thuật số
 
-1. [[💀 Hiểu về hình ảnh kỹ thuật số]]
+1. [[Hiểu về hình ảnh kỹ thuật số]]
 2. [[💀 Các loại tệp hình ảnh phổ biến]]
 3. [[Nén hình ảnh Lossy và Lossless]]
 4. [[Point vs Pixel]]

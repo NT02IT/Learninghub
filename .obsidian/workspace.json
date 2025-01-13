@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Design Fundamentals/01.01. Hiểu về hình ảnh kỹ thuật số/💀 Hiểu về hình ảnh kỹ thuật số.md",
+                "file": "01. Design Fundamentals/01.01. Hiểu về hình ảnh kỹ thuật số/README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "💀 Hiểu về hình ảnh kỹ thuật số"
+              "title": "README"
             }
           }
         ]
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Lossy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,10 +132,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Design Fundamentals/01.01. Hiểu về hình ảnh kỹ thuật số/💀 Hiểu về hình ảnh kỹ thuật số.md"
+                "file": "01. Design Fundamentals/01.01. Hiểu về hình ảnh kỹ thuật số/README.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 💀 Hiểu về hình ảnh kỹ thuật số"
+              "title": "Outline of README"
             }
           },
           {
@@ -195,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01. Design Fundamentals/01.01. Hiểu về hình ảnh kỹ thuật số/💀 Hiểu về hình ảnh kỹ thuật số.md",
+                "file": "01. Design Fundamentals/01.01. Hiểu về hình ảnh kỹ thuật số/README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -223,7 +223,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 💀 Hiểu về hình ảnh kỹ thuật số"
+              "title": "Graph of README"
             }
           }
         ]
@@ -252,10 +252,11 @@
   "active": "f827c7a1ef4225cb",
   "lastOpenFiles": [
     "01. Design Fundamentals/01.01. Hiểu về hình ảnh kỹ thuật số/💀 Các loại tệp hình ảnh phổ biến.md",
+    "01. Design Fundamentals/01.01. Hiểu về hình ảnh kỹ thuật số/Hiểu về hình ảnh kỹ thuật số.md",
     "01. Design Fundamentals/01.01. Hiểu về hình ảnh kỹ thuật số/README.md",
-    "01. Design Fundamentals/01.01. Hiểu về hình ảnh kỹ thuật số/DPI vs PPI.md",
+    "17. Software Engineering/17.5. Phát triển phần mềm/Phát triển ứng dụng Android",
     "01. Design Fundamentals/01.01. Hiểu về hình ảnh kỹ thuật số/Nén hình ảnh Lossy và Lossless.md",
-    "01. Design Fundamentals/01.01. Hiểu về hình ảnh kỹ thuật số/💀 Hiểu về hình ảnh kỹ thuật số.md",
+    "01. Design Fundamentals/01.01. Hiểu về hình ảnh kỹ thuật số/DPI vs PPI.md",
     "01. Design Fundamentals/01.01. Hiểu về thông số hình ảnh/Sự khác biệt cơ bản giữa Vector và Raster.md",
     "01. Design Fundamentals/01.01. Hiểu về hình ảnh kỹ thuật số/Point vs Pixel.md",
     "Personal Note/Figma Tips&Tricks.md",
@@ -278,7 +279,6 @@
     "18. Quản lý dự án/Ước lượng thời gian.md",
     "09. UI Foundation/9.10. Best Practices/💀 113 Design Guidelines cho Homepage Usability.md",
     "Glossary/Mẫu kiểm soát.md",
-    "09. UI Foundation/9.4. Color for UI/Chọn bảng màu Neutral trong UI design.md",
     "_extras/utils/createoutline.ipynb",
     "17. Software Engineering/17.5. Phát triển phần mềm/DevOps/Docker",
     "17. Software Engineering/17.5. Phát triển phần mềm/DevOps",
@@ -296,7 +296,6 @@
     "_extras/assets/Pasted image 20250103014113.png",
     "_extras/assets/Pasted image 20250103013805.png",
     "17. Software Engineering/17.5. Phát triển phần mềm/Framework/Java Spring/2. Các khái niệm cơ bản về Spring",
-    "17. Software Engineering/17.5. Phát triển phần mềm/Framework/Java Spring/1. Tổng quan về Spring",
     "0. Glossary/0. Glossary Canvas.canvas",
     "14. Xử lý dữ liệu dạng bảng/Canvas.canvas"
   ]
