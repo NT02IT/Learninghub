@@ -17,11 +17,13 @@ Bạn nên lưu một phiên bản của hình ảnh ở định dạng gốc n�
 ### Image Editors
 
 Adobe Photoshop - [(.PSD)](http://www.fileinfo.com/extension/psd)
+
 GIMP - [(.XCF)](http://www.fileinfo.com/extension/xcf)
 
 ### Illustration/Vector Art
 
 Adobe Illustrator - [(.AI)](http://www.fileinfo.com/extension/ai)
+
 CorelDRAW - [(.CDR)](http://www.fileinfo.com/extension/cdr)
 
 ## Common Image File Formats
@@ -32,14 +34,15 @@ Danh sách dưới đây phác thảo một số loại tệp phổ biến hơn 
 
 ### JPEG (JPG) — Joint Photographic Experts Group
 
-| Image type | Compress | Color depth | Browsers               | Use cases                                             |
-| ---------- | -------- | ----------- | ---------------------- | ----------------------------------------------------- |
-| Raster     | Lossy    | upto 24-bit | Tất cả các trình duyệt | Ảnh tĩnh;<br>Web Images;<br>Ảnh xem trước;<br>Chia sẻ |
+| Image type | Compress           | Color depth    | Browsers               | Use cases                                             |
+| ---------- | ------------------ | -------------- | ---------------------- | ----------------------------------------------------- |
+| Raster     | Lossy DCT encoding | 8-bit/ channel | Tất cả các trình duyệt | Ảnh tĩnh;<br>Web Images;<br>Ảnh xem trước;<br>Chia sẻ |
+
 Tùy theo sở thích, bạn có thể để format này ở dạng ‘JPEG’ hoặc ‘JPG’ – cả hai đều là dạng viết tắt chấp nhận được của cùng một định dạng – [Joint Photographic Experts Group](https://en.wikipedia.org/wiki/JPEG).
 
 ![Tiger Image JPEG Format](https://i.imgur.com/sHX8Sfr.jpeg)
 
-JPEG là định dạng tệp hình ảnh raster sử dụng phương pháp nén [[Nén hình ảnh Lossy và Lossless|Lossy]], hỗ trợ lên đến 24 bit màu phù hợp để chia sẻ hình ảnh. Định dạng JPEG còn cho phép bạn lựa chọn linh hoạt độ nén của ảnh – từ 0% (nén nặng nhất) đến 100% (không nén). Nhìn chung, độ nén ở khoảng 60%-75% sẽ giảm thiểu dung lượng khá khá, trong khi vẫn đảm bảo chất lượng trên đa số màn hình.
+JPEG là định dạng tệp hình ảnh raster sử dụng phương pháp nén [[Nén hình ảnh - Lossy hay Lossless|Lossy]], hỗ trợ lên đến 24 bit màu , có nghĩa là mỗi pixel trong hình ảnh có thể hiển thị 16,777,216 màu khác nhau. Điều này đạt được bằng cách sử dụng 8 bit cho mỗi kênh màu (RGB). Định dạng JPEG còn cho phép bạn lựa chọn linh hoạt độ nén của ảnh – từ 0% (nén nặng nhất) đến 100% (không nén). Nhìn chung, độ nén ở khoảng 60%-75% sẽ giảm thiểu dung lượng khá khá, trong khi vẫn đảm bảo chất lượng trên đa số màn hình.
 
 Tuy JPEG phù hợp cho việc nén và render ảnh chụp, đây lại là dạng nén khá lỏng lẻo, không tiện cho việc chỉnh sửa chuyên sâu. Sau mỗi lần export ảnh JPEG, chất lượng sẽ bị giảm đi một tý. Vì lý do này, nhiều nhiếp ảnh gia thường chụp ở chuẩn RAW Lossless.
 
@@ -56,14 +59,16 @@ Dù vậy JPEG vẫn là một trong những loại tệp hình ảnh được s
 - Không sử dụng JPEG cho đồ họa thông tin có nhiều văn bản nhỏ hoặc ảnh chụp màn hình hướng dẫn mà văn bản là cực kỳ quan trọng.
 
 ### HEIF — High Efficiency Image Format
-| Image type | Compress                   | Color bit depth | Browsers                 | Use cases                                                                                            |
-| ---------- | -------------------------- | --------------- | ------------------------ | ---------------------------------------------------------------------------------------------------- |
-| Raster     | Lossy (Nén nâng cao H.265) |                 | Không hỗ trợ trình duyệt | Ảnh tĩnh;<br>Bộ sưu tập ảnh, ảnh liên tục;<br>Lưu trữ (Chất lượng cao hơn nhưng chiếm ít bộ nhớ hơn) |
+
+| Image type | Compress                   | Color depth          | Browsers                 | Use cases                                                                                            |
+| ---------- | -------------------------- | -------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------- |
+| Raster     | Lossy (Nén nâng cao H.265) | upto 16-bit/ channel | Không hỗ trợ trình duyệt | Ảnh tĩnh;<br>Bộ sưu tập ảnh, ảnh liên tục;<br>Lưu trữ (Chất lượng cao hơn nhưng chiếm ít bộ nhớ hơn) |
+
 ![JPEG vs HEIF format](https://i.imgur.com/TEUqGga.jpeg)
 
-HEIF, viết tắt của High Efficiency Image File Format, là định dạng hình ảnh do nhóm phát triển định dạng video MPEG phát triển để trở thành đối thủ cạnh tranh trực tiếp với JPEG. Về lý thuyết, khả năng nén hiệu quả gần gấp đôi JPEG, tạo ra hình ảnh có chất lượng gấp đôi với kích thước tệp giống hệt nhau.
+HEIF, viết tắt của High Efficiency Image File Format, là định dạng hình ảnh do nhóm phát triển định dạng video MPEG phát triển để trở thành đối thủ cạnh tranh trực tiếp với JPEG. Đây là định dạng hình ảnh raster, dựa trên ánh xạ pixel, nghĩa là bạn không thể phóng to hình ảnh mà không làm giảm chất lượng.
 
-Đây là định dạng hình ảnh raster, dựa trên ánh xạ pixel, nghĩa là bạn không thể phóng to hình ảnh mà không làm giảm chất lượng.
+Định dạng HEIF (High Efficiency Image Format) hỗ trợ độ sâu màu lên đến 16-bit cho mỗi kênh màu. Điều này có nghĩa là mỗi pixel trong hình ảnh HEIF có thể hiển thị một dải màu rộng hơn và chi tiết hơn so với định dạng JPEG 24-bit. HEIF thường được sử dụng cho ảnh chụp trên các thiết bị hiện đại vì nó cung cấp chất lượng hình ảnh cao hơn trong khi vẫn giữ kích thước tệp nhỏ hơn. Về lý thuyết, khả năng nén hiệu quả gần gấp đôi JPEG, tạo ra hình ảnh có chất lượng gấp đôi với kích thước tệp giống hệt nhau.
 
 **Ưu điểm và nhược điểm:**
 - Không được hỗ trợ bởi bất kỳ trình duyệt chính nào.
@@ -74,12 +79,14 @@ HEIF, viết tắt của High Efficiency Image File Format, là định dạng h
 - Được một số điện thoại và thiết bị mới hơn sử dụng để lưu trữ ảnh có chất lượng cao hơn tệp JPEG.
 
 ### PNG — Portable Network Graphics
-| Image type | Compress | Color bit depth            | Browsers               | Use cases                                                                                 |
-| ---------- | -------- | -------------------------- | ---------------------- | ----------------------------------------------------------------------------------------- |
-| Raster     | Lossless | RGB 24-bit <br>RGBA 32-bit | Tất cả các trình duyệt | Ảnh có nền trong suốt;<br>Ảnh có nhiều nội dung văn bản;<br>Ảnh chụp màn hình;<br>Chia sẻ |
+
+| Image type | Compress                  | Color bit depth      | Browsers               | Use cases                                                                                              |
+| ---------- | ------------------------- | -------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------ |
+| Raster     | Lossless DEFLATE encoding | upto 16-bit/ channel | Tất cả các trình duyệt | Ảnh tĩnh;<br>Ảnh có nền trong suốt;<br>Ảnh có nhiều nội dung văn bản;<br>Ảnh chụp màn hình;<br>Chia sẻ |
+
 ![Kinsta’s resource center .png image file](https://i.imgur.com/EmCzuMj.png)
 
-PNG là định dạng đồ họa raster hỗ trợ nén [[Nén hình ảnh Lossy và Lossless|Lossless]], duy trì chi tiết và độ tương phản giữa các màu. Đặc biệt, PNG cung cấp khả năng đọc văn bản tốt hơn nhiều so với JPEG.
+PNG là định dạng đồ họa raster hỗ trợ nén [[Nén hình ảnh - Lossy hay Lossless|Lossless]], duy trì chi tiết và độ tương phản giữa các màu. Đặc biệt, PNG cung cấp khả năng đọc văn bản tốt hơn nhiều so với JPEG. Định dạng PNG hỗ trợ độ sâu màu lên đến 48-bit, có nghĩa là mỗi pixel có thể hiển thị hơn 281 nghìn tỷ màu khác nhau. Tuy nhiên, phổ biến nhất là PNG 24-bit, tương tự như JPEG, với 8 bit cho mỗi kênh màu (Đỏ, Xanh lá cây, và Xanh dương), cho phép hiển thị 16,777,216 màu. Định dạng PNG cũng hỗ trợ kênh alpha 8-bit để lưu trữ thông tin về độ trong suốt, giúp tạo ra các hình ảnh với nền trong suốt.
 
 Điều này khiến PNG trở thành lựa chọn phổ biến hơn cho infographics, banner, ảnh chụp màn hình và các đồ họa khác bao gồm cả hình ảnh và văn bản.
 
@@ -94,10 +101,13 @@ PNG là định dạng đồ họa raster hỗ trợ nén [[Nén hình ảnh Los
 
 ### TIFF — Tagged Image File Format
 
-| Image type | Compress           | Color bit depth | Browsers     | Use cases                                                   |
-| ---------- | ------------------ | --------------- | ------------ | ----------------------------------------------------------- |
-| Raster     | Lossy <br>Lossless | 1 to 24-bit     | Không hỗ trợ | Lưu trữ;<br>In ấn & Xuất bản;<br>Scanner;<br>Bộ sưu tập ảnh |
-TIFF, viết tắt của Tagged Image File Format, là định dạng hình ảnh raster thường được sử dụng nhất để lưu trữ và chỉnh sửa hình ảnh sẽ được sử dụng sau này để in.
+| Image type | Compress           | Color bit depth | Browsers     | Use cases                                                                |
+| ---------- | ------------------ | --------------- | ------------ | ------------------------------------------------------------------------ |
+| Raster     | Lossy <br>Lossless | 1 to 48-bit     | Không hỗ trợ | Ảnh tĩnh;<br>Lưu trữ;<br>In ấn & Xuất bản;<br>Scanner;<br>Bộ sưu tập ảnh |
+
+TIFF, viết tắt của Tagged Image File Format, là định dạng hình ảnh raster thường được sử dụng nhất để lưu trữ và chỉnh sửa hình ảnh sẽ được sử dụng sau này để in. Định dạng TIFF hỗ trợ nhiều độ sâu màu khác nhau, từ 1-bit đến 48-bit cho mỗi kênh màu. Điều này có nghĩa là TIFF có thể lưu trữ hình ảnh với độ sâu màu lên đến 16-bit cho mỗi kênh màu (RGB), tương đương với tổng cộng 48-bit cho hình ảnh RGB và 64-bit cho hình ảnh RGBA (bao gồm kênh alpha).
+
+Định dạng TIFF thường được sử dụng trong các ứng dụng yêu cầu chất lượng hình ảnh cao và khả năng lưu trữ thông tin màu sắc chi tiết, chẳng hạn như trong nhiếp ảnh chuyên nghiệp và in ấn.
 
 Mặc dù nó vẫn có hỗ trợ nén Lossy, nhưng nó thường được sử dụng như một định dạng hình ảnh Lossless. Hơn nữa, hầu hết các ứng dụng đồ họa chuyên nghiệp hỗ trợ TIFF (Photoshop, Illustrator, v.v.) đều không sử dụng nén. Các tệp TIFF cũng hỗ trợ nhiều lớp và trang. Do đó, hình ảnh TIFF thường có kích thước tệp lớn.
 
@@ -112,12 +122,16 @@ Mặc dù nó vẫn có hỗ trợ nén Lossy, nhưng nó thường được s�
 - Được nhiều máy quét sử dụng để bảo quản chất lượng của tài liệu hoặc hình ảnh được quét.
 
 ### WebP
-| Image type | Compress           | Color bit depth | Browsers                                                                                                  | Use cases                                              |
-| ---------- | ------------------ | --------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| Raster     | Lossy <br>Lossless |                 | Google Chrome (Phiên bản 17+ cho Desktop, 25+ cho Mobile)<br>Firefox (65+)<br>Edge (18+) và Opera (11.0+) | Ảnh trong suốt;<br>Hoạt ảnh;<br>Lưu trữ;<br>Web images |
+
+| Image type | Compress           | Color depth    | Browsers                                                                                                  | Use cases                                              |
+| ---------- | ------------------ | -------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| Raster     | Lossy <br>Lossless | 8-bit/ channel | Google Chrome (Phiên bản 17+ cho Desktop, 25+ cho Mobile)<br>Firefox (65+)<br>Edge (18+) và Opera (11.0+) | Ảnh trong suốt;<br>Hoạt ảnh;<br>Lưu trữ;<br>Web images |
+
 ![WebP image example](https://i.imgur.com/MASa1iR.jpeg)
 
-WebP là định dạng hình ảnh được phát triển đặc biệt để cung cấp khả năng nén Lossless và Lossy nâng cao. Việc chuyển từ JPEG và PNG sang WebP có thể giúp tiết kiệm dung lượng đĩa máy chủ và băng thông đáng kể, với các tệp hình ảnh nhỏ hơn tới 35% nhưng vẫn có chất lượng giống hệt nhau.
+WebP là định dạng hình ảnh được phát triển đặc biệt để cung cấp khả năng nén Lossless và Lossy nâng cao. Định dạng WebP sử dụng 8 bit cho mỗi kênh màu (RGB), cho phép hiển thị 16,777,216 màu khác nhau. Định dạng này cũng hỗ trợ kênh alpha 8-bit, cung cấp 256 mức độ trong suốt
+
+Việc chuyển từ JPEG và PNG sang WebP có thể giúp tiết kiệm dung lượng đĩa máy chủ và băng thông đáng kể, với các tệp hình ảnh nhỏ hơn tới 35% nhưng vẫn có chất lượng giống hệt nhau.
 
 **Ưu điểm và nhược điểm:**
 - Google Chrome (Phiên bản 17+ cho Desktop, 25+ cho Mobile), Firefox (65+), Edge (18+) và Opera (11.0+) hỗ trợ WebP. 
@@ -129,12 +143,14 @@ WebP là định dạng hình ảnh được phát triển đặc biệt để c
 - Thay thế các tệp JPEG và PNG để tiết kiệm băng thông và tăng tốc trang web của bạn. Khi sử dụng WebP nên cung cấp thêm các định dạng khác cho các trình duyệt cũ.
 
 ### GIF — Graphics Interchange Format
-| Image type | Compress | Color bit depth | Browsers               | Use cases                                     |
-| ---------- | -------- | --------------- | ---------------------- | --------------------------------------------- |
-| Raster     | Lossless | 8-bit           | Tất cả các trình duyệt | Hoạt ảnh;<br>Flat Design;<br>Chia sẻ;<br>Meme |
+
+| Image type | Compress              | Color bit depth   | Browsers               | Use cases                                     |
+| ---------- | --------------------- | ----------------- | ---------------------- | --------------------------------------------- |
+| Raster     | Lossless LZW encoding | 8-bit (256 color) | Tất cả các trình duyệt | Hoạt ảnh;<br>Flat Design;<br>Chia sẻ;<br>Meme |
+
 ![Example of a gif image](https://i.imgur.com/AuTy1jx.gif)
 
-GIF là một loại tệp hình ảnh khác nằm trong định dạng raster. GIF sử dụng nén [[Nén hình ảnh Lossy và Lossless|Lossless]] nhưng “hạn chế” hình ảnh ở mức 8 bit cho mỗi pixel và bảng màu giới hạn là 256 màu.
+GIF là một loại tệp hình ảnh khác nằm trong định dạng raster. GIF sử dụng nén [[Nén hình ảnh - Lossy hay Lossless|Lossless]] nhưng “hạn chế” hình ảnh ở mức 8 bit cho mỗi pixel và bảng màu giới hạn là 256 màu.
 
 Định dạng GIF nổi tiếng nhất *(và được sử dụng nhiều nhất)* cho hình ảnh động vì giới hạn 8 bit của nó giúp giữ kích thước tệp hình ảnh động nhỏ và thân thiện với internet.
 
@@ -150,9 +166,11 @@ GIF là một loại tệp hình ảnh khác nằm trong định dạng raster. 
 - Không sử dụng nếu bạn cần hình ảnh màu lớn hơn 8 bit.
 
 ### SVG — Scalable Vector Graphics
-| Image type | Compress | Color bit depth | Browsers               | Use cases                                                                        |
-| ---------- | -------- | --------------- | ---------------------- | -------------------------------------------------------------------------------- |
-| Vector     | None     |                 | Tất cả các trình duyệt | Vector Artwork (Logo, Icon, Vector Illustrations,...);<br>Lưu trữ;<br>Web Images |
+
+| Image type | Compress | Color depth | Browsers               | Use cases                                                            |
+| ---------- | -------- | ----------- | ---------------------- | -------------------------------------------------------------------- |
+| Vector     | None     | -           | Tất cả các trình duyệt | Vector Artwork (Logo, Icon, Vector Illustrations,...);<br>Web Images |
+
 ![SVG logo](https://i.imgur.com/ebaAnWD.png)
 
 Định dạng tệp Scalable Vector Graphics, thường được gọi là SVG, được W3C phát triển như một ngôn ngữ đánh dấu để hiển thị hình ảnh hai chiều ngay trong trình duyệt. Định dạng này không dựa vào pixel như định dạng raster mà sử dụng văn bản XML để phác thảo hình dạng và đường thẳng theo cách tương tự như cách các phương trình toán học tạo ra đồ thị.
@@ -174,9 +192,11 @@ Bạn có thể làm được điều này bằng cách liên kết URL nguồn 
 - SVG là định dạng lý tưởng cho logo, biểu tượng, hình minh họa đơn giản hay bất kỳ thứ gì khác mà bạn muốn có thể tự do scale.
 
 ### EPS — Encapsulated Postscript
+
 | Image type | Compress | Color bit depth | Browsers     | Use cases                                                                                             |
 | ---------- | -------- | --------------- | ------------ | ----------------------------------------------------------------------------------------------------- |
-| Vector     | None     |                 | Không hỗ trợ | Vector Artwork (Logo, Icon, Vector Illustrations,...);<br>Lưu trữ;<br>In ấn;<br>Trung gian chuyển đổi |
+| Vector     | None     | -               | Không hỗ trợ | Vector Artwork (Logo, Icon, Vector Illustrations,...);<br>Lưu trữ;<br>In ấn;<br>Trung gian chuyển đổi |
+
 Về bản chất, tệp EPS (Encapsulated PostScript) là tệp hình ảnh vector được sử dụng để lưu trữ hình minh họa trong Adobe Illustrator và các phần mềm minh họa khác như CorelDraw.
 
 Giống như tệp SVG, EPS thực chất là một tài liệu dạng văn bản phác thảo hình dạng và đường thẳng bằng mã, thay vì ánh xạ pixel và màu sắc. Do đó, tệp EPS cũng hỗ trợ tính năng Lossless scaling.
@@ -189,9 +209,11 @@ Giống như tệp SVG, EPS thực chất là một tài liệu dạng văn bả
 - Chủ yếu được sử dụng để lưu trữ, lưu lại và in hình minh họa khi làm việc với Adobe Illustrator hoặc phần mềm khác.
 
 ### PDF — Portable Document Format
-| Image type | Compress | Color bit depth | Browsers | Use cases                                                                                                     |
-| ---------- | -------- | --------------- | -------- | ------------------------------------------------------------------------------------------------------------- |
-| Vector     | None     |                 |          | Vector Artwork (Logo, Icon, Vector Illustrations);<br>Lưu trữ;<br>In ấn;<br>Chia sẻ;<br>Tài liệu có tương tác |
+
+| Image type | Compress | Color bit depth | Browsers               | Use cases                                                                                                     |
+| ---------- | -------- | --------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Vector     | None     | -               | Tất cả các trình duyệt | Vector Artwork (Logo, Icon, Vector Illustrations);<br>Lưu trữ;<br>In ấn;<br>Chia sẻ;<br>Tài liệu có tương tác |
+
 Tệp PDF là một loại tài liệu được sử dụng rộng rãi để duy trì bố cục và định dạng ban đầu trên các thiết bị và hệ điều hành khác nhau. Nó thường được sử dụng để chia sẻ tài liệu, chẳng hạn như báo cáo, hợp đồng, hướng dẫn sử dụng hoặc biểu mẫu, đảm bảo rằng nội dung xuất hiện giống nhau cho tất cả người dùng. Các tệp PDF có thể bao gồm văn bản, hình ảnh, chú thích và thậm chí cả các yếu tố tương tác (ví dụ: nút và hộp kiểm) và người dùng thường tạo chúng từ các định dạng tệp khác, chẳng hạn như tài liệu Word .DOCX, Excel . Bảng tính và hình ảnh XLSX.
 
 Bạn có thể gặp các tệp PDF theo nhiều cách khác nhau, cho dù tải xuống tài liệu từ trang web hay nhận tài liệu từ đồng nghiệp hoặc bạn bè dưới dạng tệp đính kèm email. Các tệp PDF cũng giữ nguyên phông chữ và định dạng điện tử trên nhiều nền tảng và xuất hiện giống nhau trên màn hình như khi in trên giấy.
@@ -209,10 +231,12 @@ Bạn có thể gặp các tệp PDF theo nhiều cách khác nhau, cho dù tả
 - PDF là lựa chọn tốt nhất nếu bạn muốn tạo báo cáo trực quan tương tác hoặc đồ họa thông tin bổ sung cho nội dung của mình.
 
 ### Raw Image File Types
+
 | Image type | Compress | Color bit depth | Browsers     | Use cases                        |
 | ---------- | -------- | --------------- | ------------ | -------------------------------- |
 | Raster     | Lossless | -               | Không hỗ trợ | Nhiếp ảnh;<br>Hậu kỳ;<br>Lưu trữ |
-Định dạng ảnh thô là loại tệp mà máy ảnh kỹ thuật số sử dụng để lưu trữ hình ảnh chất lượng đầy đủ cho quá trình hậu kỳ và chỉnh sửa sau này.
+
+Các tệp RAW là dữ liệu cảm biến chưa được xử lý được chụp trực tiếp từ cảm biến hình ảnh của máy ảnh kỹ thuật số.
 
 Các loại tệp ảnh thô chính theo hãng sản xuất máy ảnh:
 - Kodak: CR, K25, KDC
@@ -248,25 +272,6 @@ Tệp RAW cung cấp tới 16.384 sắc thái trên mỗi kênh màu (14 bit) tr
 | **EPS** (Encapsulated PostScript)            | [.eps](https://fileinfo.com/extension/eps)                                                                                                                                                                                     | None                 | Lưu trữ, Vector Artwork, Illustrations                                 | Lưu thông tin vector                                                                                                          |                                          |
 | **RAW** Image Files                          | [.raw](https://fileinfo.com/extension/raw), [.cr2](https://fileinfo.com/extension/cr2), [.nef](https://fileinfo.com/extension/nef), [.orf](https://fileinfo.com/extension/orf), [.sr2](https://fileinfo.com/extension/sr2),... | None                 | Lưu trữ, Hậu kỳ, Photography                                           | Lưu metadata, nhiều thông tin thô chưa qua xử lý                                                                              |                                          |
 | **PDF** (Portable Document Format)           | [.pdf](https://fileinfo.com/extension/pdf)                                                                                                                                                                                     | Lossless             | Lưu trữ, Printing                                                      | Có thể chứa các yếu tố tương tác như liên kết, Bảo vệ dữ liệu bằng mật khẩu                                                   | Khó chỉnh sửa                            |
-
-## Hướng dẫn chọn loại tệp phù hợp (Recommend)
-
-### Các loại tệp cho hình ảnh là gì?
-
-Các định dạng tệp hình ảnh phổ biến bao gồm JPEG, PNG, GIF, TIFF, WebP, SVG, BMP và HEIF. Mỗi loại đều có điểm mạnh riêng: **JPEG** rất phù hợp cho ảnh, **PNG** lý tưởng cho hình ảnh có độ trong suốt, **GIF** hỗ trợ hoạt ảnh đơn giản, **TIFF** được sử dụng cho các bản in chất lượng cao, các loại tệp ảnh **WebP và AVIF** cung cấp khả năng nén hiệu quả, **SVG** là định dạng vector có thể mở rộng, **BMP** là định dạng không nén và **HEIF** là định dạng mới hơn cung cấp chất lượng tốt hơn **JPEG** ở kích thước nhỏ hơn.
-### Định dạng tệp hình ảnh nào tốt hơn để sử dụng và tại sao?
-
-Định dạng hình ảnh tốt nhất phụ thuộc vào nhu cầu của bạn. WebP rất phù hợp để sử dụng web, cung cấp độ nén cao với mức giảm chất lượng tối thiểu, mặc dù nó không được hỗ trợ bởi tất cả các trình duyệt. JPEG lý tưởng cho ảnh, cân bằng chất lượng và kích thước tệp. PNG hoàn hảo cho các loại hình ảnh có văn bản, logo hoặc độ trong suốt, nhưng nó dẫn đến kích thước tệp lớn hơn.
-
-### Định dạng hình ảnh tốt nhất cho chất lượng là gì?
-
-Để có định dạng hình ảnh chất lượng tốt nhất với kích thước tệp nhỏ hơn, **WebP** là một lựa chọn tuyệt vời, cung cấp khả năng nén tuyệt vời trong khi vẫn duy trì chất lượng hình ảnh cao. Đối với chất lượng không mất dữ liệu, **PNG** hoạt động tốt, đặc biệt là đối với hình ảnh có độ trong suốt. Nếu bạn cần chất lượng hàng đầu cho mục đích in ấn hoặc lưu trữ, **TIFF** là lý tưởng, nhưng đối với hầu hết các mục đích sử dụng web, **WebP** và **PNG** là định dạng ảnh phù hợp.
-
-### Loại dữ liệu phù hợp nhất cho trường tệp hình ảnh trong form là gì? ⇒ BLOB (Mã nhị phân) 
-
-Kiểu dữ liệu phù hợp nhất cho trường tệp hình ảnh thường là **BLOB** (Binary Large Object). Nó cho phép lưu trữ các tệp hình ảnh trực tiếp trong cơ sở dữ liệu dưới dạng dữ liệu nhị phân, giúp dễ dàng quản lý và truy xuất. Tuy nhiên, đối với hình ảnh lớn hơn hoặc hiệu suất tốt hơn, lưu trữ tệp hình ảnh trên máy chủ và lưu đường dẫn tệp hoặc URL trong cơ sở dữ liệu thường hiệu quả hơn.
-
-[[Updating...]]
 
 ---
 ## References:

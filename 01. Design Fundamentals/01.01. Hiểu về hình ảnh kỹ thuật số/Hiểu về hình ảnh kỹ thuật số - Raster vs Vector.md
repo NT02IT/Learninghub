@@ -1,11 +1,13 @@
 ---
+aliases:
+  - Vector hay Raster
 created: 2025-01-11T18:16:00
 tags:
   - Design
   - ImageProperties
 not complete: true
 ---
-## Hình ảnh kỹ thuật số (hình ảnh) là gì?
+## 1. Hình ảnh kỹ thuật số (hình ảnh) là gì?
 
 Hình ảnh kỹ thuật số hoặc thu thập hình ảnh kỹ thuật số là tạo ra các hình ảnh nhiếp ảnh, có thể là từ cảnh vật thực tế hoặc cấu trúc bên trong của một đối tượng. Thuật ngữ này thường bao gồm các bước xử lý như nén dữ liệu, lưu trữ, in ấn, và hiển thị hình ảnh.
 
@@ -20,7 +22,7 @@ Ví dụ:
 
 Hình ảnh kỹ thuật số không chỉ cho phép hiển thị hình ảnh mà còn tạo điều kiện phân tích bằng phần mềm. Ngoài ra, chúng có thể được chỉnh sửa hoặc thao tác để đạt được mục đích cụ thể.
 
-## Cách tạo hình ảnh kỹ thuật số
+## 2. Cách tạo hình ảnh kỹ thuật số
 
 Hình ảnh kỹ thuật số có thể được tạo theo hai cách chính:
 1. **Chụp trực tiếp từ thực tế:** Một bức ảnh số có thể được tạo trực tiếp từ cảnh vật bằng máy ảnh, scanner hoặc thiết bị tương tự.
@@ -30,11 +32,15 @@ Ngoài ra, một số hình ảnh kỹ thuật số được tạo ra từ dữ 
 - Các thiết bị quét sonar hoặc kính viễn vọng vô tuyến.
 - Bản đồ radar thời tiết, thường thấy trên các bản tin truyền hình.
 
-Việc số hóa dữ liệu analog trong thế giới thực được gọi là số hóa, và bao gồm lấy mẫu (discretization) và lượng tử hóa. Chụp hình chụp cắt lớp kỹ thuật số có thể được thực hiện bằng máy dò tia X trực tiếp chuyển đổi hình ảnh sang định dạng số. Ngoài ra, việc chụp X quang phốt phát là nơi mà hình ảnh đầu tiên được chụp trên một tấm photpho phosphor (PSP) được quét bởi một cơ chế được gọi là phát quang phát quang.
-
 Ngoài ra, hình ảnh kỹ thuật số còn có thể được **tính toán từ mô hình toán học** hoặc **mô phỏng hình học** – quá trình này thường được gọi là **rendering**.
 
-## Raster và Vector
+### Tại sao các thiết bị cũ chụp ảnh kém hơn
+
+Chất lượng ban đầu của một tấm ảnh kỹ thuật số phụ thuộc vào máy móc, hay phần cứng, trong máy ảnh hoặc thiết bị chụp nó. Cảm biến của máy ảnh có một số pixel, thể hiện tấm ảnh lớn nhất mà máy ảnh có thể chụp. Ống kính máy ảnh quyết định chất lượng của bức ảnh. Máy ảnh cũ có cảm biến nhỏ hơn với ít pixel hơn, và một số có ống kính kém hơn.
+
+Một chiếc điện thoại thông minh mới hơn sẽ chụp ảnh đẹp hơn nhiều so với một chiếc quá cũ, và một chiếc máy ảnh nhỏ gọn mới thậm chí có thể chụp những tấm ảnh đẹp hơn một chiếc máy ảnh DSLR cũ. Cách dễ nhất để có được những tấm ảnh chất lượng tốt hơn là mua một chiếc điện thoại thông minh hoặc máy ảnh kỹ thuật số mới hơn, tốt hơn. 
+
+## 3. Raster và Vector
 
 Các loại và định dạng tệp hình ảnh được chia thành 2 loại chính: tệp hình ảnh raster (bitmap) và tệp hình ảnh vector.
 
@@ -42,7 +48,7 @@ Các loại và định dạng tệp hình ảnh được chia thành 2 loại c
 
 Đồ họa Raster (bitmap) là một tập hợp các điểm ảnh ([[Point vs Pixel|Pixel]]) nhỏ và lưu trữ thông tin về màu sắc và vị trí của từng điểm ảnh. Hình ảnh raster được tạo thành từ những pixels trên một lưới tĩnh. Trong đồ họa Raster (bitmap) mỗi pixel có thể được hiểu là một ô vuông mang màu sắc từ sự kết hợp đèn màu RGB (Đỏ, xanh lục, xanh lam) *(Cần phân biệt rõ Pixel trong Đồ họa Raster và Pixel nghĩa chung chung)*.
 
-![](https://i.imgur.com/nAud3aI.jpeg)
+![](https://i.imgur.com/AkeRz4x.gif)
 
 Một tấm ảnh raster tương tự như một bức tranh khảm: nhìn gần chúng ta sẽ thấy tương tự như một loạt các hình vuông bằng nhau được xếp ngay ngắn, nhưng khi nhìn từ xa thì những ô vuông sẽ hòa vào nhau để tạo nên hình ảnh.
 
@@ -74,9 +80,9 @@ Hình ảnh Vector bao gồm các điểm neo (Anchor points), được nối v�
 
 Một trong những điều tuyệt vời nhất về hình ảnh vector là bạn có thể thay đổi kích thước chúng lớn hơn hoặc nhỏ hơn vô hạn và chúng vẫn sẽ in ra rõ ràng như vậy, không tăng (hoặc giảm) kích thước tệp. 
 
-Nếu bạn nhớ lại hình học trung học của mình, phương trình cho một vòng tròn có tâm $(h,k)$ và bán kính $r$ là $(x - h)^{2} + (y - k)^2 = r^2$. Nếu bạn muốn làm cho vòng tròn lớn hơn, bạn chỉ cần tăng giá trị của $r$ - thay vì phải theo dõi hàng tấn pixel mới, máy tính chỉ cần theo dõi một con số khác. Điều đó hầu như không chiếm dung lượng tệp nào cả.
+Nếu bạn nhớ lại hình học trung học của mình, phương trình cho một vòng tròn có tâm $(h,k)$ và bán kính $r$ là $(x-h)^{2}+(y-k)^2=r^2$. Nếu bạn muốn làm cho vòng tròn lớn hơn, bạn chỉ cần tăng giá trị của $r$ - thay vì phải theo dõi hàng tấn pixel mới, máy tính chỉ cần theo dõi một con số khác. Điều đó hầu như không chiếm dung lượng tệp nào cả.
 
-![](https://i.imgur.com/XRaLPTW.jpeg)
+![](https://i.imgur.com/LdAbKvP.gif)
 
 Đồ họa Vector sẽ bao gồm ba thành phần chính: Điểm, Đường và đa giác. Một đồ họa Vector sẽ được tạo nên bởi vô số điểm (Point) kết nối với nhau. Các điểm này tuy vô hình nhưng bạn có thể sử dụng các công cụ trong phần mềm đồ họa để chỉnh sửa độ cong hay hình dáng của Vector. Đường (Path) là đường dẫn kết nối giữa các điểm, hay nói cách khác hai điểm nối với nhau sẽ tạo thành đường. Vì được tạo nên từ các điểm có thể chỉnh sửa nên các đường có thể mang nét cong, thẳng, chéo tùy ý theo cách sử dụng điểm của bạn. Ngoài ra bạn có thể thêm màu sắc, thay đổi kích cỡ của đường. Và cuối cùng là đa giác (Shape) hình thành khi được kết nối kín từ đường dẫn, hay hiểu đơn giản là các điểm sẽ kết nối với nhau và tạo thành hình hoàn chỉnh. Khi đã hoàn thành xong đa giác bạn có thể đổ màu vào hình đó.
 
@@ -111,12 +117,6 @@ Các hình ảnh ảnh raster thường có các định dạng sau: PDF, EPS,AI
 | Ứng dụng            | Thiết kế Logo, Font chữ, Thiết kế đồ họa vector, In ấn, Trò chơi điện tử,...                     | Nhiếp ảnh, Thiết kế đồ họa, In ấn, Đồ họa máy tính và Trò chơi, Truyền thông và Thiết kế đa phương tiện, Ảnh trên Website, Hình ảnh Y khoa,...                                            |
 | Định dạng phổ biến  | .AI, .CDR, .DAE, .EMF, .SVG, .EPS, .PDF,...                                                      | .BMP, .GIF, .JPEG, .PNG và .TIFF, .RAW, .PSD, .EPS, .PDF,...                                                                                                                              |
 | Phần mềm chỉnh sửa  | Adobe Illustrator, CorelDraw, InkScape,...                                                       | Adobe Photoshop, GIMP, Adobe Lightroom, Corel PaintShop Pro,...                                                                                                                           |
-
-## Tại sao các thiết bị cũ chụp ảnh kém hơn
-
-Chất lượng ban đầu của một tấm ảnh kỹ thuật số phụ thuộc vào máy móc, hay phần cứng, trong máy ảnh hoặc thiết bị chụp nó. Cảm biến của máy ảnh có một số pixel, thể hiện tấm ảnh lớn nhất mà máy ảnh có thể chụp. Ống kính máy ảnh quyết định chất lượng của bức ảnh. Máy ảnh cũ có cảm biến nhỏ hơn với ít pixel hơn, và một số có ống kính kém hơn.
-
-Một chiếc điện thoại thông minh mới hơn sẽ chụp ảnh đẹp hơn nhiều so với một chiếc quá cũ, và một chiếc máy ảnh nhỏ gọn mới thậm chí có thể chụp những tấm ảnh đẹp hơn một chiếc máy ảnh DSLR cũ. Cách dễ nhất để có được những tấm ảnh chất lượng tốt hơn là mua một chiếc điện thoại thông minh hoặc máy ảnh kỹ thuật số mới hơn, tốt hơn. 
 
 ---
 ## References:

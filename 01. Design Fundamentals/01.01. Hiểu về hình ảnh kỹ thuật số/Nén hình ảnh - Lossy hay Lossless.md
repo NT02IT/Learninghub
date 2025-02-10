@@ -7,19 +7,19 @@ tags:
   - Design
   - Image
 ---
-**Hình ảnh nén** là một kỹ thuật nén dữ liệu nhằm giảm dung lượng lưu trữ hoặc chi phí truyền tải của hình ảnh kỹ thuật số. Các thuật toán nén tận dụng khả năng cảm nhận thị giác của con người và các đặc tính thống kê của dữ liệu hình ảnh, mang lại hiệu quả cao hơn so với các phương pháp nén thông thường.
+**Nén hình ảnh** là một kỹ thuật nén dữ liệu nhằm giảm dung lượng lưu trữ hoặc chi phí truyền tải của hình ảnh kỹ thuật số. Các thuật toán nén tận dụng khả năng cảm nhận thị giác của con người và các đặc tính thống kê của dữ liệu hình ảnh, mang lại hiệu quả cao hơn so với các phương pháp nén thông thường.
 
-## Phân loại nén ảnh: Lossy và Lossless 
+## 1. Phân loại nén ảnh: Lossy và Lossless 
 
-### Lossy: Nén mất dữ liệu
+### 1.1. Lossy: Nén mất dữ liệu
 
-Nén mất dữ liệu là một phương pháp mã hóa dữ liệu giúp giảm kích thước tệp bằng cách loại bỏ các chi tiết không cần thiết. Nén hình ảnh mất dữ liệu sẽ loại bỏ vĩnh viễn dữ liệu ít cần thiết hơn.
+> Nén mất dữ liệu là một phương pháp mã hóa dữ liệu giúp giảm kích thước tệp bằng cách loại bỏ các chi tiết không cần thiết. Nén hình ảnh mất dữ liệu sẽ loại bỏ vĩnh viễn dữ liệu ít cần thiết hơn.
 
 Nén mất dữ liệu là cách hiệu quả nhất để quản lý hình ảnh kỹ thuật số. Điều này đặc biệt đúng đối với việc sử dụng web, có thể giảm kích thước tệp lên đến 90% trong khi vẫn duy trì giao diện chất lượng cao.
 
 #### Nén Lossy hoạt động như thế nào
 
-Nén hình ảnh mất dữ liệu đòi hỏi phải giảm dữ liệu cẩn thận và duy trì chất lượng. Hãy thử hiểu quy trình kỹ thuật này hoạt động như thế nào một cách đơn giản:
+Nén hình ảnh mất dữ liệu đòi hỏi phải giảm dữ liệu cẩn thận và duy trì chất lượng. Quy trình kỹ thuật này hoạt động:
 
 ![](https://i.imgur.com/PThdGZL.jpeg)
 
@@ -64,7 +64,7 @@ Hãy nhớ rằng, dữ liệu nén hình ảnh mất dữ liệu là không th�
 - **Mất dữ liệu vĩnh viễn:** Nếu bạn nén hình ảnh bằng nén mất dữ liệu, bạn không thể lấy lại dữ liệu bị mất. Nó đã biến mất vĩnh viễn.
 - **Kém chuyên nghiệp:** Nén mất dữ liệu có thể không đáp ứng các tiêu chuẩn có độ trung thực cao của các nhà thiết kế đồ họa, nghệ sĩ và nhiếp ảnh gia do chất lượng hình ảnh bị ảnh hưởng.
 
-### Lossless
+### 1.2. Lossless: Nén không mất dữ liệu
 
 Nén không mất dữ liệu là một phương pháp nén giúp làm cho các tệp nhỏ hơn mà không làm mất dữ liệu. Nó tái tạo hoàn hảo dữ liệu gốc từ dữ liệu nén.
 
@@ -91,10 +91,13 @@ Nén không mất dữ liệu loại bỏ các yếu tố hình ảnh trùng l�
 
 #### Các loại tệp hình ảnh nén Lossless
 
-- **PNG:** Định dạng hình ảnh được sử dụng rộng rãi sử dụng tính năng nén không mất dữ liệu, lý tưởng cho logo, biểu tượng và đồ họa trang web chất lượng cao. PNG hỗ trợ độ trong suốt và chất lượng trong hình ảnh có văn bản và cạnh sắc nét.
-- **BMP:** BMP là một định dạng hình ảnh lý tưởng cho đồ họa độ phân giải cao với đủ chi tiết. Bạn có thể sử dụng các tệp hình ảnh BMP cho nghệ thuật kỹ thuật số và thiết kế chuyên nghiệp vì chúng nén hình ảnh mà không làm giảm chất lượng.
-- **RAW:** Các nhiếp ảnh gia chuyên nghiệp thích RAW để chụp tất cả dữ liệu cảm biến để xử lý hậu kỳ linh hoạt. Lưu ảnh ở định dạng RAW. Nó bảo quản dữ liệu hình ảnh mà không làm giảm chất lượng, lý tưởng để lưu trữ.
-- **GIF:** Bạn có thể sử dụng hình ảnh GIF để tạo hoạt ảnh ngắn và meme trực tuyến. Nhờ sự hỗ trợ của họ cho nhiều khung hình trong một tệp duy nhất. GIF hoạt động tốt cho các nút và biểu ngữ trang web do kích thước tệp nhỏ và không mất dữ liệu.
+**PNG:** Định dạng hình ảnh được sử dụng rộng rãi sử dụng tính năng nén không mất dữ liệu, lý tưởng cho logo, biểu tượng và đồ họa trang web chất lượng cao. PNG hỗ trợ độ trong suốt và chất lượng trong hình ảnh có văn bản và cạnh sắc nét.
+
+**BMP:** BMP là một định dạng hình ảnh lý tưởng cho đồ họa độ phân giải cao với đủ chi tiết. Bạn có thể sử dụng các tệp hình ảnh BMP cho nghệ thuật kỹ thuật số và thiết kế chuyên nghiệp vì chúng nén hình ảnh mà không làm giảm chất lượng.
+
+**RAW:** Các nhiếp ảnh gia chuyên nghiệp thích RAW để chụp tất cả dữ liệu cảm biến để xử lý hậu kỳ linh hoạt. Lưu ảnh ở định dạng RAW. Nó bảo quản dữ liệu hình ảnh mà không làm giảm chất lượng, lý tưởng để lưu trữ.
+
+**GIF:** Bạn có thể sử dụng hình ảnh GIF để tạo hoạt ảnh ngắn và meme trực tuyến. Nhờ sự hỗ trợ của họ cho nhiều khung hình trong một tệp duy nhất. GIF hoạt động tốt cho các nút và biểu ngữ trang web do kích thước tệp nhỏ và không mất dữ liệu.
 
 #### Ưu và nhược điểm của nén không mất dữ liệu
 
@@ -110,7 +113,7 @@ Nén không mất dữ liệu loại bỏ các yếu tố hình ảnh trùng l�
 2. **Không thân thiện với web:** Các tệp hình ảnh không mất dữ liệu có thể làm chậm thời gian tải trang web do kích thước lớn hơn, ảnh hưởng đến trải nghiệm người dùng và SEO.
 3. **Nén hạn chế**: Nén ít hơn các phương pháp mất dữ liệu hạn chế khả năng giảm kích thước tệp.
 
-## Lossy và Lossless khi nào nên sử dụng cái nào?
+## 2. Lossy và Lossless khi nào nên sử dụng cái nào?
 
 ### Khi nào nên sử dụng nén Lossy?
 

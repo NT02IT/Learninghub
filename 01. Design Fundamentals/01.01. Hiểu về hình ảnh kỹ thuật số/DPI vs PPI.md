@@ -1,4 +1,8 @@
 ---
+aliases:
+  - DPI
+  - PPI
+  - Độ phân giải
 created: 2024-12-12T03:18:00
 tags:
   - Design
@@ -9,17 +13,14 @@ tags:
   - DPI
   - PPI
   - Compare
-aliases:
-  - DPI
-  - PPI
 ---
 Khi nói đến in qua máy in laser, DPI là một phép đo quan trọng để mô tả mật độ của các chấm (dot) hiển thị trên trang in. Dots không nhất thiết phải tròn và chúng có thể chồng lên nhau, tạo ra hiệu ứng bão hòa. Mặt khác, pixel hoàn toàn không chồng chéo.
 
-(Trước thời kỳ máy tính và thậm chí ngày nay trong việc sử dụng in offset, thuật ngữ được sử dụng để chỉ việc in ấn là lines per inch (LPI), đề cập đến số dòng halftone, được tạo thành từ một lưới các dots, nằm trong một inch không gian. Thông thường, đối với các ấn phẩm như tạp chí, chúng sẽ có tỷ lệ 2:1 giữa line và dot, vì vậy một tạp chí in ở 300dpi sẽ in ở khoảng 150lpi.)
+Trước thời kỳ máy tính và thậm chí ngày nay trong việc sử dụng in offset, thuật ngữ được sử dụng để chỉ việc in ấn là lines per inch (LPI), đề cập đến số dòng halftone, được tạo thành từ một lưới các dots, nằm trong một inch không gian. Thông thường, đối với các ấn phẩm như tạp chí, chúng sẽ có tỷ lệ 2:1 giữa line và dot, vì vậy một tạp chí in ở 300dpi sẽ in ở khoảng 150lpi.
 
 ![](https://img.playbook.com/zbZInFZbdURIkDt62F_Kxk4bwUqRtTtwJACCr5ivKKU/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzk1YjhmZmRj/LWE3YmItNGM2NC04/NDk1LWIzODJjMmI2/ZjZiNQ)
 
-Ảnh chụp màn hình của Mario, như được hiển thị trong bản mashup Sonic the Hedgehog vi phạm bản quyền Somari. Như bạn thấy, các pixel không chồng lên nhau!
+Ảnh chụp màn hình của Mario, như bạn thấy, các pixel không chồng lên nhau!
 
 Nhưng vấn đề là khi bạn chuyển những chấm đó sang màn hình LCD, thuật ngữ sẽ thay đổi. Độ phân giải lúc này đề cập đến mật độ của picture element (pixel) trên màn hình. Độ phân giải dots-per-inch (DPI) của một hình ảnh có thể khớp với độ phân giải pixels-per-inch (PPI) của màn hình, nhưng chúng không đề cập đến cùng một khái niệm. Dot (chấm) về cơ bản đề cập đến mật độ mực in, trong khi pixel đề cập đến mật độ hình ảnh trên màn hình. 
 
@@ -34,6 +35,7 @@ Trong những ngày đầu của ngành máy tính, vào năm 1984, khi Apple ch
 Nhưng những bức ảnh kỹ thuật số ban đầu rất rườm rà và lởm chởm. Khi công nghệ màn hình và bộ nhớ được cải thiện, máy tính có thể hiển thị nhiều pixel hơn trên cùng một màn hình kích thước. Việc khớp bản in với màn hình thậm chí còn kém chắc chắn hơn khi các ứng dụng raster và vector cho phép người dùng phóng to và kiểm tra pixel chặt chẽ. 
 
 Microsoft, với cách tiếp cận riêng của mình, lại có suy nghĩ khác khi phát triển Windows. Họ cho rằng khoảng cách xem từ màn hình lớn hơn khoảng cách đọc sách in, do đó cần một mật độ pixel khác. Vào giữa những năm 1990, Microsoft Windows đã chuyển đổi từ 72 thành 96ppi. Điều này làm cho kích thước phông chữ nhỏ hơn dễ đọc hơn vì có nhiều pixel hơn trên mỗi point, nhưng lại tạo ra sự không đồng nhất với các hệ thống máy tính khác. Đặc biệt, văn bản trên Mac sẽ nhỏ hơn so với Windows khi so sánh cùng một kích thước điểm (point).
+
 <center>Mac 72ppi => 1pt = 1/72 inch = 1px</center>
 <center>Win 96ppi => 1pt = 1/72 inch = 96/72 >1px</center>
 
@@ -47,17 +49,12 @@ Mặc dù độ phân giải ngày càng tăng đã thay đổi tình trạng n�
 
 [Một bài viết năm 2010 trên Web Designer Depot](https://webdesignerdepot.com/the-myth-of-dpi/) cho biết rằng các trình duyệt web thường phớt lờ thiết lập dots-per-inch (DPI), ít nhất là đối với hình ảnh. Mặc dù các định dạng JPG và PSD hỗ trợ DPI một cách tự nhiên, nhưng các định dạng tập trung vào kỹ thuật số như GIF và PNG thì không.
 
-Điều này có nghĩa là, về mặt kỹ thuật, bạn có thể đặt một bức ảnh ở mức 300dpi và tải nó lên một trang web, nhưng điều đó sẽ không có ý nghĩa gì trừ khi ảnh đó được in ra. Tuy nhiên, nếu bức ảnh có độ phân giải cao, nó sẽ trông đẹp hơn so với một bức ảnh có độ phân giải thấp, ngay cả khi DPI không được sử dụng.
-
-Nếu bạn in bức ảnh đó ở độ phân giải 72dpi, bạn sẽ nhận được một hình ảnh giống như con tem bưu chính hoặc một bức ảnh bị kéo dãn. Nhưng nếu in ở 300dpi, kích thước của ảnh sẽ hiển thị chính xác và đẹp hơn.
-
-> [!NOTE]
-> "Nói chung, 300ppi ở kích thước gốc được coi là mức tối thiểu để tái tạo hình ảnh một cách tốt nhất ở kích thước ban đầu. Đối với các định dạng ảnh chụp, điều quan trọng là phải phân tích kỹ lưỡng tài liệu trước khi quét. Bởi vì mỗi lần sao chép ảnh đều dẫn đến một số mất mát về chất lượng, việc sử dụng các bản trung gian, bản sao hoặc bản chép lại đồng nghĩa với việc chất lượng bị giảm đi và có thể đi kèm với các vấn đề khác (chẳng hạn như hướng không đúng, độ tương phản thấp hoặc cao, ánh sáng không đồng đều, v.v.)."
-— Một đoạn trích từ [Hướng dẫn kỹ thuật về số hóa tài liệu di sản văn hóa](https://www.digitizationguidelines.gov/guidelines/digitize-technical.html) của Federal Agencies Digital Guidelines Initiative (FADGI), tài liệu này đưa ra các khuyến nghị về kích thước và độ phân giải phù hợp để quét và số hóa các đối tượng khác nhau.
+Điều này có nghĩa là, về mặt kỹ thuật, bạn có thể đặt một bức ảnh ở mức 300dpi và tải nó lên một trang web, nhưng điều đó sẽ không có ý nghĩa gì trừ khi ảnh đó được in ra.
 
 Trong hầu hết các trường hợp, độ phân giải 300ppi được khuyến nghị, nhưng có những trường hợp ngoại lệ, khi đó độ phân giải cao hơn được khuyến nghị dựa trên mức độ chi tiết của đối tượng. Những khuyến nghị này đôi khi làm dấy lên mối lo ngại từ một số người cho rằng 300ppi là quá thấp, nhất là khi ngày nay nhiều smartphone đã hỗ trợ màn hình có độ phân giải vượt quá 300ppi.
 
-Lưu ý thêm: Bạn cũng có thể nghe thấy thuật ngữ "samples per inch" (SPI) khi nói về quét ảnh. Mặc dù việc sử dụng PPI không sai, nhưng theo công ty tư vấn in ấn IDEAS, SPI là thuật ngữ chính xác hơn về mặt kỹ thuật, vì nó phản ánh cách máy quét lấy mẫu hình ảnh.
+> [!NOTE] Lưu ý: 
+> Bạn cũng có thể nghe thấy thuật ngữ "samples per inch" (SPI) khi nói về quét ảnh. Mặc dù việc sử dụng PPI không sai, nhưng theo công ty tư vấn in ấn IDEAS, SPI là thuật ngữ chính xác hơn về mặt kỹ thuật, vì nó phản ánh cách máy quét lấy mẫu hình ảnh.
 
 ## Pixel Size phụ thuộc vào ngữ cảnh
 
@@ -128,7 +125,8 @@ Nếu bạn cầm một chiếc thước đo màn hình, bạn sẽ thấy rằn
 Sự khác biệt trở nên đáng chú ý hơn với các loại màn hình khác nhau:
 - Một digital billboard có kích thước 47 x 12 feet có thể chỉ sử dụng 888 x 240 pixel (khoảng 1,6 PPI). 
 - Màn hình iPhone ngày nay có kích thước 2 x 3 inch và chứa 320 x 480 pixel (khoảng 160 PPI).
-Một tệp PNG đơn lẻ có kích thước 100 x 100 pixel có thể được đặt trên digital billboard và màn hình iPhone trên. Tuy nhiên, tệp PNG này sẽ xuất hiện lớn hơn rất nhiều trên bảng quảng cáo vì pixel của bảng quảng cáo lớn gấp 100 lần so với pixel của iPhone (1.6 PPI so với 160 PPI). Điều này là do mật độ pixel (PPI) của màn hình càng cao, các đối tượng và hình ảnh trên màn hình càng nhỏ và chi tiết hơn, trong khi màn hình có mật độ pixel thấp sẽ hiển thị các đối tượng lớn hơn, nhưng kém sắc nét hơn​
+
+Một tệp PNG đơn lẻ có kích thước 100 x 100 pixel có thể được đặt trên digital billboard và màn hình iPhone trên. Tuy nhiên, tệp PNG này sẽ xuất hiện lớn hơn rất nhiều trên bảng quảng cáo vì pixel của bảng quảng cáo lớn gấp 100 lần so với pixel của iPhone (1.6 PPI so với 160 PPI). Điều này là do mật độ pixel (PPI) của màn hình càng cao, các đối tượng và hình ảnh trên màn hình càng nhỏ và chi tiết hơn, trong khi màn hình có mật độ pixel thấp sẽ hiển thị các đối tượng lớn hơn, nhưng kém sắc nét hơn​.
 
 ## [[Key note]]
 - Khoảng cách từ mắt đến 1 vật càng gần thì cần DPI càng cao để mắt không nhận ra sự vỡ hạt pixel.

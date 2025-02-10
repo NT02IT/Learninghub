@@ -14,7 +14,7 @@ tags:
 
 > [!NOTE] Lưu ý
 > Pixel không phải là một hình vuông nhỏ.
-> Pixel là 1 mẫu điểm (point sample). Đối với ảnh màu, một pixel thực sự có thể chứa ba mẫu, một mẫu cho mỗi màu cơ bản đóng góp vào hình ảnh tại điểm lấy mẫu. Chúng ta vẫn có thể coi đây là một mẫu điểm của một màu. Nhưng chúng ta không thể nghĩ về một pixel như một hình vuông – hoặc bất cứ thứ gì khác ngoài một điểm.
+> Pixel là 1 mẫu điểm (point sample). Đối với ảnh màu RGB, một pixel thực sự có thể chứa ba mẫu, một mẫu cho mỗi màu cơ bản đóng góp vào hình ảnh tại điểm lấy mẫu. Chúng ta vẫn có thể coi đây là một mẫu điểm của một màu. Nhưng chúng ta không thể nghĩ về một pixel như một hình vuông – hoặc bất cứ thứ gì khác ngoài một điểm.
 > Một ảnh (theo nghĩa image-base graphic) là một lưới các pixel (point sample).
 > Đọc thêm: [A Pixel Is Not A Little Square](http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf)
 
