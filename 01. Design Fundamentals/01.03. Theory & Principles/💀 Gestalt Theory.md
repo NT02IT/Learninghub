@@ -1,0 +1,1 @@
+Contrast, Proximity, Closure, Continuation, Symmetry, Balance (Mathematical, Optical, Radial Balance, Asymmetrical Balance, Dynamic Balance, Yin-Yang Balance, Organic Balance,...)

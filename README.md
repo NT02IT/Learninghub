@@ -56,7 +56,7 @@
 #### 9.1. Type of User Interface  
 #### 9.10. Best Practices  
 > [!note] Danh sách bài viết
-> 1. [💀 113 Design Guidelines cho Homepage Usability.md](/09.%20UI%20Foundation/9.10.%20Best%20Practices/%F0%9F%92%80%20113%20Design%20Guidelines%20cho%20Homepage%20Usability.md)
+> 1. [💀 113 Design Guidelines cho Homepage Usability.md](💀%20113%20Design%20Guidelines%20cho%20Homepage%20Usability.md)
 #### 9.2. Web Design and Development  
 #### 9.3. Typography for UI  
 #### 9.4. Color for UI  
@@ -66,7 +66,7 @@
 #### 9.8. UI Audit  
 #### 9.9. Design Handoff  
 > [!note] Danh sách bài viết
-> 1. [💀 Design Handoff Cheatsheet.md](/09.%20UI%20Foundation/9.9.%20Design%20Handoff/%F0%9F%92%80%20Design%20Handoff%20Cheatsheet.md)
+> 1. [💀 Design Handoff Cheatsheet.md](💀%20Design%20Handoff%20Cheatsheet.md)
 ## 10. Frontend Basic  
 #### 10.1. Semantic HTML  
 #### 10.2. CSS  

@@ -1,0 +1,1 @@
+Size, Color, Contrast, Alignment, Repetition, Proximity, Whitespace, Texture and Style

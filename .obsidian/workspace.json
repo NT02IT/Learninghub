@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7e76a395244da0c4",
+        "id": "9bf2d3baff7e77cc",
         "type": "tabs",
         "children": [
           {
-            "id": "c6af66a917966d0e",
+            "id": "191fe153eb36618d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Lossy",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -106,9 +108,18 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "a4b24b7abcb76964",
+            "type": "leaf",
+            "state": {
+              "type": "aHR0cHM6Ly9jaGF0Z3B0LmNvbS8=",
+              "state": {},
+              "icon": "aHR0cHM6Ly9jaGF0Z3B0LmNvbS8=",
+              "title": "GPT"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -145,39 +156,6 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          },
-          {
-            "id": "9d3326dff31c839d",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "17. Quản lý dự án/Dự án là gì.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Dự án là gì"
-            }
-          },
-          {
-            "id": "aee9db65500d2f6c",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "17. Quản lý dự án/Dự án là gì.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Dự án là gì"
             }
           }
         ],
@@ -223,12 +201,43 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "9d3326dff31c839d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "aee9db65500d2f6c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 331.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,47 +253,49 @@
       "obsidian42-brat:BRAT": false,
       "jupyter:Start Jupyter Server": false,
       "jupyter:Create Jupyter Notebook": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "smart-second-brain:Open S2B Chat": false,
+      "open-gate:GPT": false
     }
   },
-  "active": "f827c7a1ef4225cb",
+  "active": "191fe153eb36618d",
   "lastOpenFiles": [
-    "01. Design Fundamentals/01.02. Các yếu tố thị giác (Visual Elements)/README.md",
-    "01. Design Fundamentals/01.01. Hiểu về hình ảnh kỹ thuật số/Thị lực và cách chọn độ phân giải tối ưu cho thiết kế.md",
-    "01. Design Fundamentals/01.01. Hiểu về hình ảnh kỹ thuật số/README.md",
-    "01. Design Fundamentals/01.01. Hiểu về hình ảnh kỹ thuật số/Color bit depth.md",
-    "01. Design Fundamentals/01.01. Hiểu về hình ảnh kỹ thuật số/Hiểu về tỉ lệ khung hình - Aspect Ratios.md",
-    "01. Design Fundamentals/01.01. Hiểu về hình ảnh kỹ thuật số/Hiểu về hình ảnh kỹ thuật số - Raster vs Vector.md",
-    "01. Design Fundamentals/01.01. Hiểu về hình ảnh kỹ thuật số/DPI vs PPI.md",
-    "_extras/utils/createoutline.ipynb",
-    "Personal Note/Application Setup/Photoshop.md",
-    "_extras/assets/Fix Panel For Windown.reg",
-    "Personal Note/Application Setup/Fix Panel For Windown.reg",
-    "Untitled",
-    "01. Design Fundamentals/01.01. Hiểu về hình ảnh kỹ thuật số/Sử dụng loại tệp hình ảnh phù hợp.md",
+    "SGU/4.2 Phát triển ứng dụng trên thiết bị di động nâng cao/1. Lập trình mạng với Android/1.2. Lập trình đa luồng trong Android.md",
+    "SGU/4.2 Phát triển ứng dụng trên thiết bị di động nâng cao/1. Lập trình mạng với Android/1.1. Tổng quan về lập trình mạng.md",
+    "SGU/4.2 Phát triển ứng dụng trên thiết bị di động nâng cao/1. Lập trình mạng với Android/README.md",
     "01. Design Fundamentals/01.01. Hiểu về hình ảnh kỹ thuật số/Các loại tệp hình ảnh phổ biến.md",
-    "01. Design Fundamentals/01.01. Hiểu về hình ảnh kỹ thuật số/Point vs Pixel.md",
     "01. Design Fundamentals/01.01. Hiểu về hình ảnh kỹ thuật số/Nén hình ảnh - Lossy hay Lossless.md",
-    "09. UI Foundation/9.9. Design Handoff/💀 Design Handoff Cheatsheet.md",
-    "17. Software Engineering/17.5. Phát triển phần mềm/Phát triển ứng dụng Android",
-    "01. Design Fundamentals/01.01. Hiểu về thông số hình ảnh/Sự khác biệt cơ bản giữa Vector và Raster.md",
-    "Personal Note/Figma Tips&Tricks.md",
-    "01. Design Fundamentals/01.01. Hiểu về hình ảnh kỹ thuật số/Point vs Pixel.pdf",
-    "01. Design Fundamentals/01.01. Hiểu về hình ảnh kỹ thuật số/DPI vs PPI.pdf",
-    "Glossary/💀 Nghiên cứu định lượng & định tính.md",
-    "Glossary/Giả thuyết nghiên cứu.md",
-    "Glossary/Độ lệch chuẩn.md",
-    "Glossary/Brand Identity Design.md",
-    "Glossary/Biến trung gian.md",
-    "Glossary/Biến phụ thuộc.md",
-    "Glossary/Biến nhân khẩu.md",
-    "Glossary/Biến độc lập.md",
-    "Glossary/Biến điều tiết.md",
-    "Glossary/💀 Câu hỏi nghiên cứu.md",
-    "Glossary/Phương pháp lấy mẫu định lượng.md",
-    "17. Software Engineering/17.5. Phát triển phần mềm/DevOps/Docker",
-    "17. Software Engineering/17.5. Phát triển phần mềm/DevOps",
-    "Personal Note/~$gma Tips&Tricks.docx",
+    "Personal Note/Application Setup/Obsidian.md",
+    "Personal Note/Application Setup/Photoshop.md",
+    "Personal Note/English/1. Các thì trong Tiếng Anh.md",
+    "01. Design Fundamentals/01.03. Theory & Principles/💀 Gestalt Theory.md",
+    "Personal Note/English",
+    "01. Design Fundamentals/01.01. Hiểu về hình ảnh kỹ thuật số/Hiểu về hình ảnh kỹ thuật số - Raster vs Vector.md",
+    "01. Design Fundamentals/01.01. Hiểu về hình ảnh kỹ thuật số/README.md",
+    "01. Design Fundamentals/01.03. Theory & Principles/💀 Movement (Chuyển động).md",
+    "01. Design Fundamentals/01.03. Theory & Principles/(bỏ).md",
+    "01. Design Fundamentals/01.03. Theory & Principles/💀 Rhythm (Nhịp điệu).md",
+    "01. Design Fundamentals/01.03. Theory & Principles/💀 Visual Hierarchy (Phân cấp thị giác).md",
+    "01. Design Fundamentals/01.02. Các yếu tố thị giác (Visual Elements)/README.md",
+    "01. Design Fundamentals/01.02. Các yếu tố thị giác (Visual Elements)/💀 8. Space.md",
+    "01. Design Fundamentals/01.02. Các yếu tố thị giác (Visual Elements)/💀 7. Pattern.md",
+    "01. Design Fundamentals/01.02. Các yếu tố thị giác (Visual Elements)/💀 6. Texture.md",
+    "01. Design Fundamentals/01.02. Các yếu tố thị giác (Visual Elements)/💀 5. Lighting.md",
+    "01. Design Fundamentals/01.02. Các yếu tố thị giác (Visual Elements)/💀 4. Value.md",
+    "01. Design Fundamentals/01.02. Các yếu tố thị giác (Visual Elements)/💀 3. Color.md",
+    "01. Design Fundamentals/01.02. Các yếu tố thị giác (Visual Elements)/💀 1. Dot, Line, Shape.md",
+    "01. Design Fundamentals/01.02. Các yếu tố thị giác (Visual Elements)/💀 2. Form.md",
+    "09. UI Foundation/9.3. UI Design Principles/💀 KISS - Keep it short and simple.md",
+    "09. UI Foundation/9.3. UI Design Principles",
+    "09. UI Foundation/Untitled.md",
+    "01. Design Fundamentals/01.03. Theory & Principles/Collections",
+    "01. Design Fundamentals/01.03. Theory & Principles/Universal Design Principles",
+    "SGU/4.2 Phát triển ứng dụng trên thiết bị di động nâng cao/1. Lập trình mạng với Android",
+    "SGU/4.2 Thiết kế giao diện/extra",
+    "SGU/4.2 Thiết kế giao diện",
+    "SGU/4.2 Phát triển ứng dụng trên thiết bị di động nâng cao/7. (extra) Lập trình đa nền tảng",
+    "SGU/4.2 Phát triển ứng dụng trên thiết bị di động nâng cao/6. API RSS",
+    "SGU/4.2 Phát triển ứng dụng trên thiết bị di động nâng cao/5. Truy xuất phần cứng",
     "_extras/assets/Pasted image 20241212045416.png",
     "_extras/assets/Pasted image 20250103144557.png",
     "_extras/assets/Pasted image 20250103132235.png",
